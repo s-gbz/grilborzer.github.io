@@ -3,3 +3,8 @@ _site
 *.swp
 .sass-cache
 *~
+
+portfolio
+*.jpg
+*jpeg
+

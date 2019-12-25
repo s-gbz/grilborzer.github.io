@@ -1,10 +1,10 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "grilborzer.de"
+title: "Portfolio + Blog"
+description: "Portfolio + Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "/"
+baseurl: ""
 #google_analytics: 'UA-46278016-1' TODO: REGISTER
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,11 +14,12 @@ permalink: /:title/
 # Authors
 authors:
   sergej:
+    display_name: Sergej
     name: Sergej Grilborzer
     avatar: "assets/images/s-gbz.jpg"
     email: sergej@grilborzer.de
     web: https://grilborzer.de
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "This is my author box."
 
 # Plugins
 plugins:
