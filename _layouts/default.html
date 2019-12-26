@@ -72,23 +72,15 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/portfolio/html5up-multiverse/">Portfolio</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/privacy">Privacy Notice</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/about">Legal</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -143,14 +135,9 @@ ga('send', 'pageview');
 
 <!-- Categories Jumbotron
 ================================================== -->
-<div class="jumbotron fortags">
+<div class="jumbotron fortags" background-image="../images/jumbotron.jpg">
 	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
-            </div>
-		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
+		<div class="col-md-12 p-1 align-self-center text-center">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
@@ -162,7 +149,7 @@ ga('send', 'pageview');
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
-		</div>
+        </div>
 	</div>
 </div>
 
@@ -172,10 +159,11 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} - all rights reserved.
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">  
+                    Powered by <a href="https://jekyllrb.com/">Jekyll</a> 
+                    and a customized <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a>.
             </div>
         </div>
     </div>
