@@ -75,14 +75,6 @@ ga('send', 'pageview');
                     <a class="nav-link" href="{{ site.baseurl }}/portfolio/html5up-multiverse/">Portfolio</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/privacy">Privacy Notice</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/about">Legal</a>
-                </li>
-
                 {% include search-lunr.html %}
 
             </ul>
@@ -158,10 +150,16 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-4 col-sm-4 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} - all rights reserved.
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">  
+
+            <div class="col-md-4 col-sm-4 container row text-center text-lg-center">
+                    <a class="nav-link col-md-6" href="{{ site.baseurl }}/privacy">Privacy Policy</a>
+                    <a class="nav-link col-md-6" href="{{ site.baseurl }}/legal">Legal</a>
+            </div>
+
+            <div class="col-md-4 col-sm-4 text-center text-lg-right">  
                     Powered by <a href="https://jekyllrb.com/">Jekyll</a> 
                     and a customized <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a>.
             </div>
