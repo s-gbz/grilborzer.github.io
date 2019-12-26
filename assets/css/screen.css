@@ -320,7 +320,7 @@ span.post-read-more a:hover {
     font-size: 0.8rem;
     color: rgba(0, 0, 0, .44);
     margin-top: 50px;
-    margin-bottom: 62px;
+    margin-bottom: 5px;
     position: relative;
     background: #fff;
 }
@@ -772,9 +772,8 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 350px;
+        height: 200px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
 
