@@ -4,14 +4,11 @@ comments: false
 layout: gallery
 ---
 
-<body>
-
-    <div id="app-4">
-        <div v-for="index in 10" :key="index">
-            <img :src="'images/thumbs/' + ((index)) + '.jpg'">
-        </div>
+<div id="gallery">
+    <div v-for="image_path in full_image_paths">
+        <img :src="((image_path.name))">
     </div>
+</div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="assets/js/repeat-element.js" defer></script>
-</body>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="assets/js/read-images-from-folder.js" defer></script>
