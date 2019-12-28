@@ -1,6 +1,17 @@
 ---
-title: Test
+title: Portfolio
 comments: false
 layout: gallery
 ---
 
+<body>
+
+    <div id="app-4">
+        <div v-for="index in 10" :key="index">
+            <img :src="'images/thumbs/' + ((index)) + '.jpg'">
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="assets/js/repeat-element.js" defer></script>
+</body>
