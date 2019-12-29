@@ -4,9 +4,17 @@ comments: false
 layout: gallery
 ---
 
-<div id="gallery">
-    <div v-for="image_path in full_image_paths">
-        <img :src="((image_path.name))">
+<div id="main" class="page">
+    <div id="gallery" class="page__content">
+        <div class="content-wrap listing-wrap">
+            <section class="listing">
+                <div class="listing-item" v-for="image_path in full_image_paths" v-bind:key="image_path.name">
+                    <div class="listing-item__image ">
+                        <img :src="((image_path.name))">
+                    </div>
+                </div>
+            </section>
+        </div>
     </div>
 </div>
 

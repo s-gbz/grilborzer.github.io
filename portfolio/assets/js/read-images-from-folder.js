@@ -7,7 +7,7 @@ const folder_path = "images/thumbs/";
 new Vue({
     delimiters: ["((", "))"],
     el: '#gallery',
-    data: vue_data,
+    data: vue_data
 });
 
 $.ajax({
@@ -22,3 +22,4 @@ $.ajax({
         });
     }
 });
+
