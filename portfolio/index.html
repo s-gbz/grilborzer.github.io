@@ -6,11 +6,12 @@ layout: gallery
 
 <div id="main" class="page">
     <div id="gallery" class="page__content">
+        <gallery :images="fullImagePaths" :index="index" @close="index = null"></gallery>
         <div class="content-wrap listing-wrap">
             <section class="listing">
-                <div class="listing-item" v-for="image_path in full_image_paths" v-bind:key="image_path.name">
+                <div class="listing-item" v-for="image_path, imageIndex in fullImagePaths" v-bind:key="image_path" @click="index = imageIndex">
                     <div class="listing-item__image">
-                        <img :src="((image_path.name))">
+                        <img :src="((image_path))" style="cursor:pointer;">
                     </div>
                 </div>
             </section>
@@ -21,3 +22,9 @@ layout: gallery
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="read-images-from-folder.js" defer></script>
 <script src="board.js"></script>
+
+<script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-helper.js"></script> 
+<script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-gallery.js"></script> 
+<script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-gallery-fullscreen.js"></script> 
+<script type="text/javascript" src="vue-gallery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/blueimp-gallery@2.27.0/css/blueimp-gallery.min.css">
