@@ -16,13 +16,17 @@ layout: gallery
 
 <div id="masonryGrid">
     <div v-for="(start, index) in 19" :key="index">
-        <a :href="'portfolio-assets/images/fulls/' + index + '.webp'">
-            <!-- <picture>
-                <source loading="lazy" :srcset="'portfolio-assets/images/thumbnails/' + index + '.webp'"
-                    type="image/webp"> -->
-            <img class="" type="image/jpg" loading="lazy" alt="Model Portrait Photography"
+        <a :href="'portfolio-assets/images/fulls/' + index + '.webp'"
+            :data-srcset="'portfolio-assets/images/fulls/' + index + '.jpg'">
+            <!-- <img class="" type="image/jpg" loading="lazy" alt="Model Portrait Photography"
+                    :src="'portfolio-assets/images/thumbnails/' + index + '.jpg'"> -->
+            <img class="" type="image/webp" loading="lazy" alt="Model Portrait Photography"
+                :srcset="'portfolio-assets/images/thumbnails/' + index + '.webp'"
                 :src="'portfolio-assets/images/thumbnails/' + index + '.jpg'">
-            <!-- </picture> -->
+            <!-- <img class="" loading="lazy" alt="Model Portrait Photography"
+                    :data-webp="'portfolio-assets/images/thumbnails/' + index + '.webp'"
+                    :data-jpg="'portfolio-assets/images/thumbnails/' + index + '.jpg'"> -->
+            <!-- data-jpg="image.jpg" data-webp="image.webp"  -->
         </a>
     </div>
 </div>
@@ -42,8 +46,8 @@ layout: gallery
 <script>
     const macyInstance = Macy({
         container: '#masonryGrid',
-        trueOrder: true,
-        waitForImages: true,
+        trueOrder: false,
+        waitForImages: false,
         margin: 24,
         columns: 3,
         breakAt: {
@@ -56,14 +60,24 @@ layout: gallery
 
     macyInstance.runOnImageLoad(function () {
         macyInstance.recalculate(true, true);
-        document.getElementById('masonryGrid').onclick = function (event) {
-            event = event || window.event
-            var target = event.target || event.srcElement,
-                link = target.src ? target.parentNode : target,
-                options = { index: link, event: event },
-                masonryGrid = this.getElementsByTagName('a')
-            console.log(target);
-            blueimp.Gallery(masonryGrid, options)
-        }
+
     }, true);
+
+    document.getElementById('masonryGrid').onclick = function (event) {
+        // event = event || window.event
+        // var target = event.target || event.srcElement,
+        //     link = target.src ? target.parentNode : target,
+        //     options = { index: link, event: event },
+        //     masonryGrid = this.getElementsByTagName('a');
+        // console.log(target);
+        // blueimp.Gallery(masonryGrid, options)
+
+        event = event || window.event
+        var target = event.target || event.srcElement
+        var link = target.src ? target.parentNode : target
+        var options = { index: link, event: event, preloadRange: 1 }
+        var links = this.getElementsByTagName('a')
+        console.log(target);
+        blueimp.Gallery(links, options)
+    }
 </script>
