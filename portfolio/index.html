@@ -9,7 +9,7 @@ layout: gallery
         <div class="content-wrap listing-wrap">
             <section class="listing">
                 <div class="listing-item" v-for="image_path in full_image_paths" v-bind:key="image_path.name">
-                    <div class="listing-item__image ">
+                    <div class="listing-item__image">
                         <img :src="((image_path.name))">
                     </div>
                 </div>
@@ -20,3 +20,4 @@ layout: gallery
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="assets/js/read-images-from-folder.js" defer></script>
+<script src="board.js"></script>
