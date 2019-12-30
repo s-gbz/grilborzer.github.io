@@ -4,6 +4,5 @@ _site
 .sass-cache
 *~
 
-*.jpg
-*jpeg
+/portfolio/images/originals
 
