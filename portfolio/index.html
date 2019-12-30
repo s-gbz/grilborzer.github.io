@@ -6,10 +6,10 @@ layout: gallery
 
 <div id="main" class="page">
     <div id="gallery" class="page__content">
-        <gallery :images="fullImagePaths" :index="index" @close="index = null"></gallery>
+        <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
         <div class="content-wrap listing-wrap">
             <section class="listing">
-                <div class="listing-item" v-for="image_path, imageIndex in fullImagePaths" v-bind:key="image_path" @click="index = imageIndex">
+                <div class="listing-item" v-for="image_path, imageIndex in thumbnailImagePaths" v-bind:key="image_path" @click="index = imageIndex">
                     <div class="listing-item__image">
                         <img :src="((image_path))" style="cursor:pointer;">
                     </div>
