@@ -4,9 +4,10 @@ comments: false
 layout: gallery
 ---
 
-<link rel="stylesheet" href="../portfolio/masonry_3_grid.css" />
-<!--<link rel="stylesheet" href="../portfolio/masonry_4_grid.css" />-->
 <script type="text/javascript" src="masonry.js"></script>
+<!--<link rel="stylesheet" href="masonry_3_grid.css" />-->
+<link rel="stylesheet" href="masonry_4_grid.css" />
+
 
 <div id="gallery" class="masonry-wrapper">
     <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
