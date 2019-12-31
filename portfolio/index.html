@@ -3,11 +3,17 @@ title: Portfolio
 comments: false
 layout: gallery
 ---
-
+<link rel="stylesheet" href="../portfolio/masonry.css" />
 <script type="text/javascript" src="masonry.js"></script>
-<!--<link rel="stylesheet" href="masonry_3_grid.css" />-->
-<link rel="stylesheet" href="masonry_4_grid.css" />
 
+<script type="text/javascript" src="dependencies/vue.js"></script>
+<script type="text/javascript" src="read-images-from-folder.js" defer></script>
+
+<script type="text/javascript" src="dependencies/blueimp-helper.min.js"></script>
+<script type="text/javascript" src="dependencies/blueimp-gallery.min.js"></script>
+<script type="text/javascript" src="dependencies/blueimp-gallery-fullscreen.min.js"></script>
+<script type="text/javascript" src="dependencies/vue-gallery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="dependencies/blueimp-gallery.min.css">
 
 <div id="gallery" class="masonry-wrapper">
     <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
@@ -18,13 +24,3 @@ layout: gallery
         </div>
     </div>
 </div>
-
-<script type="text/javascript" src="dependencies/vue.js"></script>
-<script type="text/javascript" src="read-images-from-folder.js" defer></script>
-<script type="text/javascript" src="board.js"></script>
-
-<script type="text/javascript" src="dependencies/blueimp-helper.min.js"></script>
-<script type="text/javascript" src="dependencies/blueimp-gallery.min.js"></script>
-<script type="text/javascript" src="dependencies/blueimp-gallery-fullscreen.min.js"></script>
-<script type="text/javascript" src="dependencies/vue-gallery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="dependencies/blueimp-gallery.min.css">
