@@ -3,26 +3,11 @@ title: Portfolio
 comments: false
 layout: gallery
 ---
-
-<div id="main" class="page">
-    <div id="gallery" class="page__content">
-        <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
-        <section class="listing">
-            <div class="content-wrap listing-wrap">
-                <div class="listing-item" v-for="image_path, imageIndex in thumbnailImagePaths" v-bind:key="image_path"
-                    @click="index = imageIndex">
-                    <div class="listing-item__image">
-                        <img :src="((image_path))" style="cursor:pointer;">
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</div>
+<link rel="stylesheet" href="../portfolio/masonry.css" />
+<script type="text/javascript" src="masonry.js"></script>
 
 <script type="text/javascript" src="dependencies/vue.js"></script>
 <script type="text/javascript" src="read-images-from-folder.js" defer></script>
-<script type="text/javascript" src="board.js"></script>
 
 <script type="text/javascript" src="dependencies/blueimp-helper.min.js"></script>
 <script type="text/javascript" src="dependencies/blueimp-gallery.min.js"></script>
@@ -30,3 +15,12 @@ layout: gallery
 <script type="text/javascript" src="dependencies/vue-gallery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="dependencies/blueimp-gallery.min.css">
 
+<div id="gallery" class="masonry-wrapper">
+    <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
+    <div class="masonry">
+        <div class="masonry-item" v-for="image_path, imageIndex in thumbnailImagePaths" v-bind:key="image_path"
+            @click="index = imageIndex">
+            <img :src="((image_path))" style="cursor:pointer;">
+        </div>
+    </div>
+</div>
