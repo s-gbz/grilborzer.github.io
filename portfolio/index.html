@@ -15,14 +15,26 @@ layout: gallery
 <script type="text/javascript" src="dependencies/vue-gallery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="dependencies/blueimp-gallery.min.css">
 
+<!--
 <div id="gallery" class="masonry-wrapper">
-    <p>{{site.baseurl}} /</p>
     <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
     <div class="masonry">
         <div class="masonry-item" v-for="image_path, imageIndex in thumbnailImagePaths" v-bind:key="image_path"
             @click="index = imageIndex">
-            <p>((image_path))</p>
             <img :src="((image_path))" style="cursor:pointer;">
         </div>
+    </div>
+</div>
+-->
+<div id="gallery" class="masonry-wrapper">
+    <div class="masonry">
+        {% for image in site.static_files %}
+        {% if image.path contains 'portfolio/images/thumbnails' %}
+        <div class="masonry-item">
+            <p>{{image.path}}</p>
+            <img src="{{ site.baseurl }}{{ image.path }}" style="cursor:pointer;" />
+        </div>
+        {% endif %}
+        {% endfor %}
     </div>
 </div>

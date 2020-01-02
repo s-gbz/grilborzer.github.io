@@ -26,7 +26,6 @@ $.ajax({
                 const fullThumbnailImagePath = thumbnailFolderPath + read_img_path;
                 vue_data.fullSizeImagePaths.push(fullFullSizeImagePath);
                 vue_data.thumbnailImagePaths.push(fullThumbnailImagePath);
-                console.log(vue_data);
             }
         });
     }
