@@ -14,12 +14,12 @@ permalink: /blog/:title/
 # Authors
 authors:
   sergej:
-    display_name: Sergej
+    display_name: Sergej Grilborzer
     name: Sergej Grilborzer
     avatar: "assets/images/s-gbz.jpg"
     email: sergej@grilborzer.de
     web: https://grilborzer.de
-    description: "This is my author box."
+    description: "Avid reader, musician and photographer."
 
 # Plugins
 plugins:
