@@ -1,61 +1,31 @@
 ---
-layout: default
-title: Home
+title: Portfolio
+comments: false
+layout: gallery
 ---
+<link rel="stylesheet" href="portfolio-assets/masonry.css" />
+<script type="text/javascript" src="portfolio-assets/masonry.js"></script>
 
-{% if page.url == "/" %}
+<script type="text/javascript" src="portfolio-assets/dependencies/vue.js"></script>
+<script type="text/javascript" src="portfolio-assets/read-images-from-folder.js" defer></script>
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
-    </div>
-    <div class="row">
+<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-helper.min.js"></script>
+<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
+<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-gallery-fullscreen.min.js"></script>
+<script type="text/javascript" src="portfolio-assets/dependencies/vue-gallery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="portfolio-assets/dependencies/blueimp-gallery.min.css">
 
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
+<div id="gallery" class="masonry-wrapper">
+    <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
+    <div class="masonry">
+        {% assign imageIndex = 0 %}
+        {% for image in site.static_files %}
+        {% if image.path contains 'portfolio-assets/images/thumbnails' %}
+        <div class="masonry-item" @click="index = {{ imageIndex }}">
+            <img src="{{ site.baseurl }}{{ image.path }}" style="cursor:pointer;" />
+        </div>
+        {% assign imageIndex = imageIndex | plus:1 %}
         {% endif %}
-
-    {% endfor %}
-
-    </div>
-</section>
-
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
         {% endfor %}
-
     </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
 </div>
-

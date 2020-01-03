@@ -10,7 +10,7 @@
 
 {% seo %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
     
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
@@ -63,16 +63,16 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 
-                {% if page.url == "/" %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/">Portfolio</a>
+                </li>
+
+                {% if page.url == "/blog/" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/portfolio">Portfolio</a>
+                <a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a>
                 </li>
 
                 {% include search-lunr.html %}
