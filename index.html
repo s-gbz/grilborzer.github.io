@@ -3,6 +3,7 @@ title: Portfolio
 comments: false
 layout: gallery
 ---
+<script type="text/javascript" src="portfolio-assets/lazysizes.min.js" async=""></script>
 <link rel="stylesheet" href="portfolio-assets/masonry.css" />
 <script type="text/javascript" src="portfolio-assets/masonry.js"></script>
 
@@ -22,7 +23,7 @@ layout: gallery
         {% for image in site.static_files %}
         {% if image.path contains 'portfolio-assets/images/thumbnails' %}
         <div class="masonry-item" @click="index = {{ imageIndex }}">
-            <img src="{{ site.baseurl }}{{ image.path }}" style="cursor:pointer;" />
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-src="{{ site.baseurl }}{{ image.path }}" style="cursor:pointer;" />
         </div>
         {% assign imageIndex = imageIndex | plus:1 %}
         {% endif %}
