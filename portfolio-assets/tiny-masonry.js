@@ -72,5 +72,5 @@ if (typeof exports === "object") {
   module.exports = TinyMasonry
 }
 
-var grid = document.querySelector(".masonryGrid")
-new TinyMasonry(masonryGrid)
+let grid = document.querySelector(".masonryGrid");
+new TinyMasonry(masonryGrid);
