@@ -3,30 +3,107 @@ title: Portfolio
 comments: false
 layout: gallery
 ---
-<script type="text/javascript" src="portfolio-assets/lazysizes.min.js" async=""></script>
-<link rel="stylesheet" href="portfolio-assets/masonry.css" />
-<script type="text/javascript" src="portfolio-assets/masonry.js"></script>
 
-<script type="text/javascript" src="portfolio-assets/dependencies/vue.js"></script>
-<script type="text/javascript" src="portfolio-assets/read-images-from-folder.js" defer></script>
+<style>
+    .my-masonry-item {
+        width: 25%;
+        margin: 0 0 10px 10px;
+    }
+</style>
 
-<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-helper.min.js"></script>
-<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
-<script type="text/javascript" src="portfolio-assets/dependencies/blueimp-gallery-fullscreen.min.js"></script>
-<script type="text/javascript" src="portfolio-assets/dependencies/vue-gallery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="portfolio-assets/dependencies/blueimp-gallery.min.css">
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+  </div>
 
-<div id="gallery" class="masonry-wrapper">
-    <gallery :images="fullSizeImagePaths" :index="index" @close="index = null"></gallery>
-    <div class="masonry">
-        {% assign imageIndex = 0 %}
-        {% for image in site.static_files %}
-        {% if image.path contains 'portfolio-assets/images/thumbnails' %}
-        <div class="masonry-item" @click="index = {{ imageIndex }}">
-            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-src="{{ site.baseurl }}{{ image.path }}" style="cursor:pointer;" />
-        </div>
-        {% assign imageIndex = imageIndex | plus:1 %}
-        {% endif %}
-        {% endfor %}
+<div id="masonryGrid">
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/0.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/0.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/1.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/1.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/2.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/2.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/3.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/3.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/4.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/4.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/5.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/5.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/6.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/6.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/7.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/7.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/8.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/8.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/9.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/9.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/10.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/10.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/11.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/11.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/12.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/12.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/13.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/13.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/14.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/14.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/15.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/15.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/16.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/16.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/17.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/17.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/18.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/18.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/19.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/19.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/20.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/20.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/21.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/21.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
+    </div>
+    <div class="my-masonry-item">
+        <a href="portfolio-assets/images/fulls/22.jpg"><img class="lazyload" data-src="portfolio-assets/images/thumbnails/22.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="></a>
     </div>
 </div>
+
+<script type="text/javascript" src="portfolio-assets/tiny-masonry.js"></script>
+<link rel="stylesheet" href="portfolio-assets/dependencies/blueimp-gallery.min.css" />
+<script src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
+
+<script>
+    document.getElementById('masonryGrid').onclick = function(event) {
+      event = event || window.event
+      var target = event.target || event.srcElement,
+        link = target.src ? target.parentNode : target,
+        options = { index: link, event: event },
+        masonryGrid = this.getElementsByTagName('a')
+      blueimp.Gallery(masonryGrid, options)
+    }
+  </script>
