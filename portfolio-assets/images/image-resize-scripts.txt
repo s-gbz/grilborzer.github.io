@@ -4,7 +4,7 @@ magick convert *.jpg -resize 20% ../thumbnails/%01d.jpg
 
 File size is reduced from ~10mb to ~500kb.
 
-In corresponding folders (for example thumbnails)
+In corresponding folders (thumbnails)
 magick mogrify -strip -interlace Plane -quality 70% *.jpg
 
 File size is reduced from ~500kb to ~70kb.
