@@ -3,6 +3,16 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
+html body ul li.task-list-item {
+    list-style-type: circle;
+    list-style-type: none;
+}
+
+html body ul li input.task-list-item-checkbox {
+    margin-right: 0.7em;
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
