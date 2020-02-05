@@ -16,27 +16,31 @@ I decided that things *have* got too comfortable for me.
 This has various reasons:
 - I discovered a passion for creative endeavors like theatre, singing and [photography](/)
 - My learning was focused on classes in university
-- Workmatters led me to broadaning my assets in various areas like [Machine Learning](https://github.com/adessoag/facenality) and DevOps
+- Workmatters led me to broadaning my assets in various areas like [Machine Learning](https://github.com/adessoag/facenality) and [DevOps](https://www.adesso.de/de/news/blog/deploy-keras-models-to-production-level-easily.jsp)
 
-tl;dr [take me to the list](#study-schedule-2020).
+## Self-Education
+tl;dr -> [Take me to your study schedule](#study-schedule-2020).
 
-## The need to study
 Recent events led me to the conclusion that sharpening specific skills is a task for myself.
-I also figured that passion drives my work to it's best.
-The idea of creating a product that benefits people is emotional investment that I need.
+You will grow at work and university.
+You can not expect to learn *all* the interesting things there though.
 
-The project has to be managable though - 
-Something that takes between one to eight weeks at most.
-Delay bears threats of loosing interest and feeling overwhelmed.
+I also figured that 
+- the idea of creating a product that benefits people
+- in sprints of one to eight weeks
 
-> Our assumtion of difficulty scales with the time available ([**SOURCE?!**]()).
+drives my work to it's best.
 
-Having weekly [personal sprints](https://maketime.blog/article/redesign-your-day-four-lessons-from-the-design-sprint-laboratory/) can ensure motivation and focus on the task.
+There's even scientific backup for that - 
+Delays bear threat of loosing interest and feeling overwhelmed.
+> Our perception of difficulty scales with the time available.
+
+Weekly [personal sprints](https://maketime.blog/article/redesign-your-day-four-lessons-from-the-design-sprint-laboratory/) can ensure motivation and focus on the task.
 The following is a compilation of my personal (tech) schedule for 2020.
 
 ## Study schedule 2020
 This year I will focus on deepening my Frontend skills.
-The content is inspired by "Frontend Gossip" and current job postings (February 2020).
+The content is inspired by "Frontend Talk ðŸ”¥" and current job postings (February 2020).
 
 If you read this it means that I managed the first tasks I set myself up for ðŸŽ‰ðŸ’¯
 - [X] Build a simple blog with Jekyll (a Static Site Generator)
@@ -56,6 +60,7 @@ If you read this it means that I managed the first tasks I set myself up for ðŸŽ
 - [ ] Jasmine
 - [ ] Mocha
 - [ ] Selenium
+- [ ] Cypress
 
 ### Server-Side with JS
 - [ ] Node.js Server
@@ -90,7 +95,7 @@ If you read this it means that I managed the first tasks I set myself up for ðŸŽ
 
 [Seek discomfort](https://youtube.com/yestheory) and keep learning!
 Feel free to revisit the list if you look for easy to follow tutorials on any of these topics.
-You can also checkout my CV if you stuck around that long.
+You can also checkout my [CV](/cv) while you're here.
 
 Good luck and happy learning!
 
