@@ -17,7 +17,7 @@
 
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 </head>
 
@@ -189,22 +189,17 @@
     <!-- Scripts
 ================================================== -->
 
-    <script src="../assets/js/popper.min.js" defer></script>
+    <script type="text/javascript" src="../assets/js/popper.min.js" defer></script>
 
-    <script src="../assets/js/bootstrap.min.js" defer></script>
+    <script type="text/javascript" src="../assets/js/bootstrap.min.js" defer></script>
 
-    <script src="{{ site.baseurl }}/assets/js/mediumish.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/mediumish.js" defer></script>
 
     {% if site.lazyimages == "enabled" %}
-    <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
     {% endif %}
 
-    <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-    {% if page.layout == 'post' %}
-    <script id="dsq-count-scr" src="//{{site.disqus}}disqus.com/count.js"></script>
-    {% endif %}
-
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 
 </html>
