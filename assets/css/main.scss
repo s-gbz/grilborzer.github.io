@@ -21,7 +21,6 @@
     text-decoration: none;
 }
 
-
 .title-logo-lettering {
 	font-family: Righteous;
 	margin-top: 20px;
@@ -69,4 +68,13 @@
 	.title-logo-lettering.gallery-title {
 		margin-left: 0px;
 	}
+}
+
+.category-item-li {
+	color: black !important;
+    text-decoration: none;
+}
+
+.category-item-li:hover {
+	background-color: #00ab7e;
 }

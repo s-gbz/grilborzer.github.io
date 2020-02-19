@@ -120,31 +120,32 @@
             </div>
             {% endif %}
 
-        </div>
-
-        <!-- Categories Jumbotron
-================================================== -->
-        <div class="jumbotron fortags" background-image="../images/jumbotron.jpg">
-            <div class="d-md-flex h-100">
-                <div class="col-md-12 p-1 align-self-center text-center">
+            <div class="align-self-center text-center">
+                <ul class="list-group list-group-horizontal">
                     {% assign categories_list = site.categories %}
                     {% if categories_list.first[0] == null %}
                     {% for category in categories_list %}
-                    <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}
-                        ({{ site.tags[category].size }})</a>
+                    <a class="list-group-item flex-fill category-item-li"
+                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">
+                        {{ category | camelcase }}
+                        <span class="badge badge-primary badge-pill">{{ site.tags[category].size }}</span>
+                    </a>
                     {% endfor %}
                     {% else %}
                     {% for category in categories_list %}
-                    <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}
-                        ({{ category[1].size }})</a>
+                    <a class="list-group-item flex-fill category-item-li"
+                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">
+                        {{ category[0] | camelcase }}
+                        <span class="badge badge-primary badge-pill">{{ category[1].size }}</span>
+                    </a>
+
                     {% endfor %}
                     {% endif %}
                     {% assign categories_list = nil %}
-                </div>
+                </ul>
             </div>
         </div>
+
 
         <!-- Begin Footer
 ================================================== -->
