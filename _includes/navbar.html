@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">    
+    <div class="container pr-0">
+        {% assign current_page = "/blog" %}
+        {% assign current_page_is_blog = true %}
+        
+        {% if page.dir == "/" %}
+        {% assign current_page = "/" %}
+        {% assign current_page_is_blog = false %}
+        {% endif %}
+        
+        <a class="href-no-color-change title-logo-lettering {% unless current_page_is_blog %} gallery-title-lettering {% endunless %}" href="{{ current_page }}">
+            <p>{{ site.name }}</p>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item {% unless current_page_is_blog %} active {% endunless %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/">Portfolio</a>
+                </li>
+
+                <li class="nav-item {% if current_page_is_blog %} active {% endif %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a>
+                </li>
+
+                {% include search-lunr.html %}
+            </ul>
+        </div>
+    </div>
+</nav>
