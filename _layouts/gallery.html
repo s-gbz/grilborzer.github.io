@@ -6,29 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="icon" href="/assets/images/logo.png">
-
     <title>{{ page.title }} | {{site.name}}</title>
 
-    {% seo %}
     <script type="text/javascript" src="/assets/js/jquery.min.js" defer></script>
 
+    {% seo %}
     {% include google-analytics.html %}
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{layout}}">
-    <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
         <link href="/assets/fonts/Righteous-Merriweather.css" rel="stylesheet">
         <link rel="stylesheet" href="/assets/css/fontawesome-all.css">
     </noscript>
 
-
-    <!-- Begin Menu Navigation
-================================================== -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-
         <div class="container pr-0">
 
             <a class="href-no-color-change title-logo-lettering gallery-title" href="/">
@@ -41,11 +35,7 @@
             </button>
 
             <div class="collapse navbar-collapse" id="navbarMediumish">
-
-                <!-- Begin Menu -->
-
                 <ul class="navbar-nav ml-auto">
-
                     <li class="nav-item active">
                         <a class="nav-link" href="{{ site.baseurl }}">Portfolio</a>
                     </li>
@@ -55,76 +45,31 @@
                     </li>
 
                     {% include search-lunr.html %}
-
                 </ul>
-
-                <!-- End Menu -->
-
             </div>
-
         </div>
     </nav>
-    <!-- End Navigation
-================================================== -->
 
     <div class="site-content">
-
         <div class="container">
-
-            <!-- Site Title
-================================================== -->
-            <!-- Content
-================================================== -->
             <div class="main-content">
                 {{ content }}
             </div>
 
-            {% if site.mailchimp-list %}
-            <!-- Bottom Alert Bar
-================================================== -->
-            <div class="alertbar">
-                <div class="container text-center">
-                    <span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a
-                        <b>story</b> from us, subscribe to our newsletter</span>
-                    <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
-                        class="wj-contact-form validate" target="_blank" novalidate>
-                        <div class="mc-field-group">
-                            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL"
-                                autocomplete="on" required>
-                            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-                        </div>
-                    </form>
-                </div>
-            </div>
-            {% endif %}
-
+            {% include footer.html %}
         </div>
 
+        <script type="text/javascript" src="/assets/js/popper.min.js" defer></script>
+        <script type="text/javascript" src="/assets/js/bootstrap.min.js" defer></script>
+        <script type="text/javascript" src="/assets/js/mediumish.js" defer></script>
+        {% if site.lazyimages == "enabled" %}
+        <script type="text/javascript" src="/assets/js/lazyload.js"></script>
+        {% endif %}
+        <script type="text/javascript" src="/assets/js/ie10-viewport-bug-workaround.js" defer></script>
 
-        {% include footer.html %}
-
-    </div> <!-- /.site-content -->
-
-    <!-- Scripts
-================================================== -->
-
-    <script type="text/javascript" src="/assets/js/popper.min.js" defer></script>
-
-    <script type="text/javascript" src="/assets/js/bootstrap.min.js" defer></script>
-
-    <script type="text/javascript" src="/assets/js/mediumish.js" defer></script>
-
-    {% if site.lazyimages == "enabled" %}
-    <script type="text/javascript" src="/assets/js/lazyload.js"></script>
-    {% endif %}
-
-    <script type="text/javascript" src="/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-
-    <link href="/assets/css/screen.css" rel="stylesheet">
-
-    <link href="/assets/css/main.css" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+        <link href="/assets/css/screen.css" rel="stylesheet">
+        <link href="/assets/css/main.css" rel="stylesheet">
 </body>
 
 </html>
