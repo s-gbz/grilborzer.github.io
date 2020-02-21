@@ -1,15 +1,13 @@
 <script async src='/assets/js/analytics.js'></script>
 <script type="text/javascript" async src="/assets/js/gtag.js?id=UA-158219742-1"></script>
 <script type="text/javascript">
-    if (document.location.hostname === "grilborzer.de") {
+    if (document.location.hostname.startsWith("sergej.grilborzer.de")) {
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
         gtag('config', 'UA-158219742-1');
-        console.log("GA connected! #TODO: REMOVE");
     }
 </script>
