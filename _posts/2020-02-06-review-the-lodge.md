@@ -58,7 +58,7 @@ We fear what we don't see and expect *something* to happen.
 We do know a lot of clichés after all.
 The movies makes sure to give us a hint of everything:
 
-- We see the menacing glare of the Maria portrait and wonder "Did the eyes just move?".
+- We see the menacing glare of the religious portrait and wonder "Did the eyes just move?".
 - We move around the house and fear the pressing darkness of each corner thinking "What is going to jump on us?".
 - There's an empty room between the bedrooms - 
 Do you remember how the door opened itself and you've been waiting to see "something come out of it"?
@@ -67,7 +67,7 @@ Was it Aidan? Was it Grace? Could there be a demon in the house?
 
 The atmosphere is drenched in questions and mystery.
 Not knowing what to expect makes us expect everything.
-As my friend eloquently summarized "The tension was topped by even more tension".
+As a friend eloquently summarized "The tension was topped by even more tension".
 
 ### Implications and consequences
 The big twist is that the misterious events were staged by the kids.
@@ -80,7 +80,7 @@ It is the extension of mankinds reasoning and long term planing that extends thi
 
 Previous generations and horror movies dwelled on the mysteries of the unknown.
 The terror of the universe and the idea how scary a mystical creature can be.
-Growing up and seeing those terrors on screen for a long time made the mysterie way too familiar though.
+Growing up and seeing those terrors on screen for a long time made the mystery way too familiar though.
 The new kind of terror lies in mankind and its capacity to misuse the mutual understanding.
 Hugely popular projects like [Get Out](https://www.imdb.com/title/tt5052448/) and [Black Mirror](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) seem to support this assumtion.
 
@@ -100,8 +100,8 @@ They also, but not only:
 
 - Wrote "Mom <3" on the glass and got away by being a quick, sneaky bastard and a [sociopath](#%22shes-a-psycho%22---the-crow-calls-the-raven-black).
 - Let "REPENT" appear on a mirror by applying razor foam to glass, because it prevents the covered area from sweating.
-- Made a ton of of snow angels after inconspicuously introducing the victim to the meaning of the angels.
-- Hung themself to give her the rest. I've no idea how they made this at the moment.
+- Made a ton of of snow angels after inconspicuously associating the angels with their deceased mother.
+- "Hung" Aidan to give her the rest. I've no idea how they made this trick at the moment.
 
 All this while denying her medication.
 That cleverly makes her an untrustable narrator and leaves us to wonder what's real.
@@ -114,76 +114,69 @@ They naturally wouldn't mind if Grace was seriously harmed or died.
 All that matters is venging the one who "took away their mother".
 
 # "She's a psycho!" - The crow calls the raven black
-Who else believed that Aidan and Mia were genuinly shocked when their belongings disappeared?
-Who else thought that Aidan was genuinly surprised when Grace confronted him about spying on her? 
-I couldn't even imagine that a boy of 14(?) years could go to such lengths to torture a person like this.
+You might remember that the kids once accused their dad of marrying "a psycho".
+I think this is highly ironic considering the wicked games they played with Grace.
 
-To quietly observe how a mentaly damaged, traumatized woman crawls circles in a blizzard.
-Watch how she loses her dearly loved companion and simultaniously loses grasp to her newly build identity.
-How she breaks until she's driven to "repent", torture and mutilate herself.  
+We know that humans are capable of lying, deceiving and torturing, but
+- .. who else believed that Aidan and Mia were genuinly shocked when their belongings disappeared?
+- .. who else thought that Aidan was genuinly surprised when Grace confronted him about spying on her?
+- .. who would assume that** a couple of 14(?) year olds would torture an innocent, traumatized woman?**
 
-You rarely see him display emotions.
-Aidan didn't shed a single tear during and after the funeral of their mother.
-I assumed his restraint to be based on incapacity and forceful blockage/ resistance. 
+I would assume this a rather unnatural behaviour for kids.
 
-It was during Graces self torture that it dawned to me how he could remain so calm and deattached -
-> Aidan displays strong indications of psychopathy.
+## Aidans indications of Antisocial Personality Disorder
+Consider the WHOs characteristics of dissocial personality disorder.
+> It is characterized by at least 3 of the following:
 
-Psychopathic characteristics include
-- Capability to remain undistressed in highly stressful situations/ circumstances -> No display of emotion
-- No regard for other peoples feelings -> He does care about his sister though
-- Ability and will to manipulate people according to his desires
+  1. Callous unconcern for the feelings of others;
+  2. Gross and persistent attitude of irresponsibility and disregard for social norms, rules, and obligations;
+  3. Incapacity to maintain enduring relationships, though having no difficulty in establishing them;
+  4. Very low tolerance to frustration and a low threshold for discharge of aggression, including violence;
+  5. Incapacity to experience guilt or to profit from experience, particularly punishment;
+  6. Marked readiness to blame others or to offer plausible rationalizations for the behavior that has brought the person into conflict with society.
 
-Just in case someone might confuse him as an authist: (#TODO: IN SPOILER BOX)
-He can't be authistic, because the authism spectrum syndrome limits patients capabilities to read other peoples emotions.
-And he did that.
-I'd like to refer to our new [definition of horror](#implications-and-consequences).
-He knew exactly what he was doing.
+Consider what we know about Aidan:
+**Aidan barely displayed any kinds emotions during the whole movie.**
+- He didn't shed a single tear during and after the funeral of their mother.
+- He didn't flinch when Grady died.
+- He was totaly detached towards Graces and her self mutilation.
+- He stayed absolutely calm as he was faced with certain death. 
 
-## Sound design
-Anyone who ever tried to shoot a movie themselfes will know: 
-Sound design is crucial.
-Arguably most of all in horror movies.
+**I think that Aidans behaviour can be interpreted as signs of Antisocial Personality Disorder.**
 
-The score was just like the visuals and the plot:
-**Intense**, sinister, huge and haunting.
-I can't stress that enough.
-It's composed of a huge, bone chilling brass section and tense, cutting strings.
+### "So, is Aidan a 'psychopath' or a 'sociopath'"?
+I think assigning him in one of those categories is not possible since we
+- don't see him interact with people outside his family
+- don't have much information how things were before the divorce
+- have no information upon family history (except for his mothers sucicide)
+- I'm not psychologist (just whish I were)
 
-> I never saw a post Credit Roll as stiff and motionless as I did during The Lodge.
-
-#TODO: Include YouTube or Spotify player with soundtrack
-
-It was quite comedial actually:
-Three guys sitting in a tiny two row cinema in front of a huge screen.
-No one daring to move and interrupt the imposing soundtrack.
-A big bravo to the composer .. #TODO!
+The extent and use of these terms are disputed among professionals anyways.
 
 # Conclusion
-The Lodge is a well crafted, well structured movie worth watching.
-An instant classic of the "show-this-to-your-friends" kind.
-It not only assumes, but finally acknowledges you, the viewer to be smart.
+I never saw a post Credit Roll as stiff and motionless as I did during The Lodge
+(partly because of the sinister, huge and haunting score).
 
-The Lodge is an immersive experience that builds and excells on worn out horror tropes.
+The Lodge is an instant classic of modern horror - 
+an immersive experience that builds and excells on worn out horror tropes.
+It offers much room for analysis and is the joint success of multiple factors.
+It not only assumes, but finally acknowledges you the viewer to be smart.
+
+Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes).
 Thank you to the cast and crew for making this movie happen - This is what horror should be like!
 
 PS: A great applause to the team of [Joker](../_posts/2020-03-01-joker-review.md) and Joaquin Phoenix for claiming its well deserved Oscar <3!
 Same goes for Brad Pitt in [Once Upon A Time.. In Hollywood](../_posts/2020-03-01-once-upon-a-time-review.md).
 
-## Fun facts and a comparison to The Shining
-- Mention that Grady could be a reference to The Shining
-- Mention the different pacings and key points in the movie
-  - We start with the kids' perspective and observe Grace as an unperceivable shadow (through window)
-- We then switch to Grace as we're in the lodge
-- Gradie is Graces symbol of a new life.
-His death is the end of her perspective
-- We come back to Aidan and Mia.
-We learn some of their dirty tricks and witness her final downfall. (In case you didn't notice - the puppet house scenes were the plan)
-In a way it's a self fullfilling prophecy as she becomes what they perceived her to be.
-Her beauty and gentle soul turn to agony and spreading of pain. 
+# Further notes: Pacing 
+I really enjoyed the pacing and structure of the movie.
+Our perception and protagonist shifts upon specific events.
+1. We start with the kids' perspective and observe Grace as an unperceivable shadow (we see her through windows).
+2. We switch to Grace when she breaks into the ice.
+3. Graces dog Grady (a reference to The Shining) is her symbol of a new life.
+His death is the end of her sanity and our return to the kids perspective. 
 
-The Shining is about a mystical, evil force that played on a mentally stressed man untill he broke.
-The Lodge is about a *pair of kids* that played on an innocent, traumatized woman untill she broke.
-The hotel used spirits and magic.
-The kids used lying and intrigue. 
-Both of them precisely knew their victims.
+## A self fulfilling prophecy
+Also in case you didn't notice: The puppet house scenes were the scheming of the kids plan.
+What's ironic: The kids viewed Grace as a "psycho" and symbol of agony.
+Their revenge is a self fulfilling prophecy that turned Graces beauty and gentleness to their disturbed perception of her.
