@@ -2,7 +2,7 @@
 layout: post
 title:  "The Lodge - Why it's awesome!"
 author: sergej
-categories: [Why it's awesome!]
+categories: [Movie Review]
 image: assets/images/the-lodge-smaller.jpg
 toc: true
 comments: false
@@ -30,7 +30,7 @@ The real key to effective horror is **atmosphere**.
 Atmosphere is great, because it contributes to the whole experience in opposite to a single moment.
 Fans of the [Silent Hill](https://www.youtube.com/watch?v=wh6LhkA3698) saga will've experienced this first hand.
 
-# Understanding audiences expectations
+# Understanding audiences' expectations
 Back to The Lodge.
 What is it doing right?
 We remember that:
@@ -50,8 +50,8 @@ They want things to be different and familiar at the same time.
 You might see a fundamental struggle here.
 The solution is **subverting expectations**.
 
-## Playing on audiences expectations
-> As a filmmaker you need to understand your audiences expectations in order to subvert them.
+## Playing on audiences' expectations
+> As a filmmaker you need to understand your audiences' expectations in order to subvert them.
 
 The successful execution of this concept is what made me gasp, fear and love The Lodge.
 We fear what we don't see and expect *something* to happen.
@@ -98,7 +98,7 @@ They didn't interve when she finally broke and mutilated herself.
 They let her dog, companion and grasp to sanity willingly die.
 They also, but not only:
 
-- Wrote "Mom <3" on the glass and got away by being a quick, sneaky bastard and a [sociopath](#%22shes-a-psycho%22---the-crow-calls-the-raven-black).
+- Wrote "Mom <3" on the glass and got away by being a quick, sneaky bastard and [sociopathic](#shes-a-psycho---the-crow-calls-the-raven-black).
 - Let "REPENT" appear on a mirror by applying razor foam to glass, because it prevents the covered area from sweating.
 - Made a ton of of snow angels after inconspicuously associating the angels with their deceased mother.
 - "Hung" Aidan to give her the rest. I've no idea how they made this trick at the moment.
@@ -120,7 +120,7 @@ I think this is highly ironic considering the wicked games they played with Grac
 We know that humans are capable of lying, deceiving and torturing, but
 - .. who else believed that Aidan and Mia were genuinly shocked when their belongings disappeared?
 - .. who else thought that Aidan was genuinly surprised when Grace confronted him about spying on her?
-- .. who would assume that** a couple of 14(?) year olds would torture an innocent, traumatized woman?**
+- .. who would assume that **a couple of 14 (?) year olds would torture an innocent, traumatized woman?**
 
 I would assume this a rather unnatural behaviour for kids.
 
@@ -162,7 +162,7 @@ an immersive experience that builds and excells on worn out horror tropes.
 It offers much room for analysis and is the joint success of multiple factors.
 It not only assumes, but finally acknowledges you the viewer to be smart.
 
-Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes).
+Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes-pacing).
 Thank you to the cast and crew for making this movie happen - This is what horror should be like!
 
 PS: A great applause to the team of [Joker](../_posts/2020-03-01-joker-review.md) and Joaquin Phoenix for claiming its well deserved Oscar <3!
@@ -174,9 +174,9 @@ Our perception and protagonist shifts upon specific events.
 1. We start with the kids' perspective and observe Grace as an unperceivable shadow (we see her through windows).
 2. We switch to Grace when she breaks into the ice.
 3. Graces dog Grady (a reference to The Shining) is her symbol of a new life.
-His death is the end of her sanity and our return to the kids perspective. 
+His death is the end of her sanity and our return to the kids' perspective. 
 
-## A self fulfilling prophecy
+## A self-fulfilling prophecy
 Also in case you didn't notice: The puppet house scenes were the scheming of the kids plan.
 What's ironic: The kids viewed Grace as a "psycho" and symbol of agony.
-Their revenge is a self fulfilling prophecy that turned Graces beauty and gentleness to their disturbed perception of her.
+Their revenge is a self-fulfilling prophecy that turned Graces beauty and gentleness to their disturbed perception of her.
