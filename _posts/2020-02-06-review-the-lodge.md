@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Lodge - Why it's awesome!"
+title:  "The Lodge - Demonstration of modern horror (Spoilers!)"
 author: sergej
 categories: [Movie Review]
 image: assets/images/the-lodge-smaller.jpg
@@ -12,7 +12,7 @@ hidden: true
 
 The Lodge offers us what The Shining offered viewers in the 70's:
 A fresh take on (psychological) horror.
-Welcome to **Why it's awesome! - Spoilers included!**
+Welcome to my discussion on modern horror! - **Spoilers included!**
 
 # Clichés of horror
 Most of whom saw The Lodge probably saw a number of different horror movies before.
