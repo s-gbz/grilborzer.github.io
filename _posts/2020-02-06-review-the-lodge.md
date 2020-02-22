@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Lodge - Demonstration of modern horror (Spoilers!)"
+title:  "The Lodge - A discussion of modern horror (Spoilers!)"
 author: sergej
 categories: [Movie Review]
 image: assets/images/the-lodge-smaller.jpg
@@ -16,7 +16,7 @@ Welcome to my discussion on modern horror! - **Spoilers included!**
 
 # Clichés of horror
 Most of whom saw The Lodge probably saw a number of different horror movies before.
-The result is an understanding of established tropes and cliches of the genre, which leads to familiarity.
+The result is an understanding of established tropes and clichés of the genre, which leads to familiarity.
 To understand why familiarity is a problem in horror we have to understand how we perceive fear.
 **We fear what we don't know.**
 We're thus bored by clichés and loath predictability.
@@ -51,7 +51,7 @@ You might see a fundamental struggle here.
 The solution is **subverting expectations**.
 
 ## Playing on audiences' expectations
-> As a filmmaker you need to understand your audiences' expectations in order to subvert them.
+**As a filmmaker you need to understand your audiences' expectations in order to subvert them.**
 
 The successful execution of this concept is what made me gasp, fear and love The Lodge.
 We fear what we don't see and expect *something* to happen.
@@ -94,14 +94,14 @@ A pair of kids tortured an innocent, traumatized woman until she went crazy.
 I'll repeat it again, to let it sink in:
 **A pair of kids tortured an innocent, traumatized woman until she went crazy.**
 
-They didn't interve when she finally broke and mutilated herself.   
+They didn't intervene when Grace finally broke and mutilated herself.   
 They let her dog, companion and grasp to sanity willingly die.
 They also, but not only:
 
-- Wrote "Mom <3" on the glass and got away by being a quick, sneaky bastard and [sociopathic](#shes-a-psycho---the-crow-calls-the-raven-black).
+- Wrote "Mom <3" on the glass and got away by sneaky and [sociopathic](#shes-a-psycho---the-crow-calls-the-raven-black).
 - Let "REPENT" appear on a mirror by applying razor foam to glass, because it prevents the covered area from sweating.
-- Made a ton of of snow angels after inconspicuously associating the angels with their deceased mother.
-- "Hung" Aidan to give her the rest. I've no idea how they made this trick at the moment.
+- Made a ton of snow angels after inconspicuously associating the angels with their deceased mother.
+- And finally "hung" Aidan to give her the rest. I've no idea how they played this trick at the moment.
 
 All this while denying her medication.
 That cleverly makes her an untrustable narrator and leaves us to wonder what's real.
@@ -125,21 +125,22 @@ We know that humans are capable of lying, deceiving and torturing, but
 I would assume this a rather unnatural behaviour for kids.
 
 ## Aidans indications of Antisocial Personality Disorder
-Consider the WHOs characteristics of dissocial personality disorder.
+Consider the [WHOs characteristics](https://www.who.int/classifications/icd/en/bluebook.pdf) of dissocial personality disorder.
 > It is characterized by at least 3 of the following:
-
+>
   1. Callous unconcern for the feelings of others;
   2. Gross and persistent attitude of irresponsibility and disregard for social norms, rules, and obligations;
   3. Incapacity to maintain enduring relationships, though having no difficulty in establishing them;
   4. Very low tolerance to frustration and a low threshold for discharge of aggression, including violence;
   5. Incapacity to experience guilt or to profit from experience, particularly punishment;
   6. Marked readiness to blame others or to offer plausible rationalizations for the behavior that has brought the person into conflict with society.
+>
 
 Consider what we know about Aidan:
 **Aidan barely displayed any kinds emotions during the whole movie.**
 - He didn't shed a single tear during and after the funeral of their mother.
 - He didn't flinch when Grady died.
-- He was totaly detached towards Graces and her self mutilation.
+- He was totaly detached towards Grace and her self mutilation.
 - He stayed absolutely calm as he was faced with certain death. 
 
 **I think that Aidans behaviour can be interpreted as signs of Antisocial Personality Disorder.**
@@ -148,18 +149,17 @@ Consider what we know about Aidan:
 I think assigning him in one of those categories is not possible since we
 - don't see him interact with people outside his family
 - don't have much information how things were before the divorce
-- have no information upon family history (except for his mothers sucicide)
-- I'm not psychologist (just whish I were)
+- have no information upon family history (except for his mothers suicide)
+- Also: I'm not a psychologist :P
 
 The extent and use of these terms are disputed among professionals anyways.
 
 # Conclusion
-I never saw a post Credit Roll as stiff and motionless as I did during The Lodge
+I never saw closing credits as stiff and motionless as I did during The Lodge
 (partly because of the sinister, huge and haunting score).
 
 The Lodge is an instant classic of modern horror - 
 an immersive experience that builds and excells on worn out horror tropes.
-It offers much room for analysis and is the joint success of multiple factors.
 It not only assumes, but finally acknowledges you the viewer to be smart.
 
 Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes-pacing).
@@ -168,15 +168,23 @@ Thank you to the cast and crew for making this movie happen - This is what horro
 PS: A great applause to the team of [Joker](../_posts/2020-03-01-joker-review.md) and Joaquin Phoenix for claiming its well deserved Oscar <3!
 Same goes for Brad Pitt in [Once Upon A Time.. In Hollywood](../_posts/2020-03-01-once-upon-a-time-review.md).
 
-# Further notes: Pacing 
+## Further notes: Pacing 
 I really enjoyed the pacing and structure of the movie.
-Our perception and protagonist shifts upon specific events.
-1. We start with the kids' perspective and observe Grace as an unperceivable shadow (we see her through windows).
+Our point of view is determined by the characters we follow and implies different perceptions as well as information available.
+
+1. We start with the kids' perspective and observe Grace as an unperceivable shadow (we see her through windows only).
 2. We switch to Grace when she breaks into the ice.
 3. Graces dog Grady (a reference to The Shining) is her symbol of a new life.
 His death is the end of her sanity and our return to the kids' perspective. 
 
-## A self-fulfilling prophecy
-Also in case you didn't notice: The puppet house scenes were the scheming of the kids plan.
-What's ironic: The kids viewed Grace as a "psycho" and symbol of agony.
-Their revenge is a self-fulfilling prophecy that turned Graces beauty and gentleness to their disturbed perception of her.
+### A self-fulfilling prophecy
+We are confirmed that Grace is a warm hearted, good person.
+She is (most likely) not to blame for the suicide of Laura.
+Aidan and Mia strongly disagree.
+They blame Grace for the death of her mother and project the root of their pain on her.
+
+Their **revenge is a self-fulfilling prophecy** though.
+As their scheme escalates, Grace loses herself and *then literaly* brings pain to the family.
+**Their disturbed perception turns into reality.**
+
+In case you didn't notice: The puppet house scenes were a visualization of the plan.
