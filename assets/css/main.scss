@@ -78,3 +78,10 @@
 .category-item-li:hover {
 	background-color: #00ab7e;
 }
+span.spoiler { background-color: #17a2b8; }
+.spoiler, .spoiler > * { transition: ease-in-out color 2.5s, ease-out opacity 0.5s; }
+.spoiler:not(:hover) { color: transparent;  }
+.spoiler:not(:hover) > * { opacity: 0; }
+.spoiler:hover { background-color: white; }
+/* fix weird transitions on Chrome: */
+blockquote, blockquote > *:not(a) { color: black }

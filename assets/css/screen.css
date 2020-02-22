@@ -862,7 +862,7 @@ iframe {
     top: 80px;
 }
 
-.spoiler {
+/* .spoiler {
     color: transparent;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
     transition: all .4s;
@@ -892,7 +892,7 @@ iframe {
 
 .spoiler:hover:after {
     opacity: 1;
-}
+} */
 
 /** Lazy img **/
 .lazyimg {
