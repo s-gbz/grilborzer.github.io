@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: Joker"
 author: sergej
-categories: [Movie review]
+categories: [Movie Review]
 image: assets/images/learning-opened-book-aaron-burden-unsplash.jpg
 toc: false
 comments: false
