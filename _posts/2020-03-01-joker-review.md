@@ -3,7 +3,8 @@ layout: post
 title:  "Review: Joker"
 author: sergej
 categories: [Movie Review]
-image: assets/images/learning-opened-book-aaron-burden-unsplash.jpg
+image: assets/images/joker.jpg
+image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt7286456/mediaviewer/rm2427557377' target='_blank'>IMDb</a>"
 toc: false
 comments: false
 featured: false
