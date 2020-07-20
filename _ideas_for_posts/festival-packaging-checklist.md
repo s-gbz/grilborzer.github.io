@@ -1,0 +1,3 @@
+- "Don't get me wrong, sharing is caring, *but* don't be that guy that is unprepared and has to scrounge essentials/ everything from his friends and neighbours"
+- Share a few words about your prefernces
+- Link to Google Docs spreadsheet
