@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The perception of pure mindulness"
+title:  "The perception of pure mindfulness"
 author: sergej
 categories: [Self Development]
 image: assets/images/free-pure-mindfulness.jpg
