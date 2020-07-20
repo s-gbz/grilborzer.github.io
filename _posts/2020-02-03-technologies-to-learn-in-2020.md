@@ -2,7 +2,7 @@
 layout: post
 title:  "Technologies to learn in 2020"
 author: sergej
-categories: [Front-End, JavaScript]
+categories: [Software Engineering]
 image: assets/images/learning-opened-book-aaron-burden-unsplash.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/@aaronburden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge' target='_blank'>Aaron Burden</a>"
 beforetoc: "A personal list of things to study"
