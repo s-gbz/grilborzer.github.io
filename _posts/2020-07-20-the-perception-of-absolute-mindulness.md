@@ -47,3 +47,21 @@ Nonetheless it's alright the way it is - I wonder how long one can stay in this 
 It would be probably better to write more.
 But right now, I'm choosing life over productivity.
 Maybe we should all do it more often.
+
+## My usual practice
+You might wonder how my experience came to be.
+I'd like to provide a little background: 
+
+I'd consider myself an intermediate practitioner of mindfulness
+(it's really versatile and can be done in many ways).
+Meditation is usually my preferred way to get into it.
+I do it more often, but definitely not habitually.
+The end of a session usually leads to well-being and a clearer mind.
+So far, there haven't been instances that were comparable to this experience though.
+
+### Movies are powerful
+I know it's funny, but the state is actually result of watching "[Your Name](https://www.imdb.com/title/tt5311514/)".
+I highly praise and recommend the movie!
+That might seem trivial, but movies are powerful.
+
+Feel free to checkout my (upcoming) [review](/blog/your-name-review) after you've seen it yourself.
