@@ -1,4 +1,4 @@
-# Checklist for post submissions
+# Checklist for Blog Post submissions
 
 - [ ] Check spelling
 - [ ] Check general formatting
