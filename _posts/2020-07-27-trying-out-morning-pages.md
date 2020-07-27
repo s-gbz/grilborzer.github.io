@@ -18,13 +18,13 @@ The concept is simple:
 There are no rules what to write about.
 You are done as soon as you have three handwritten A4 pages.
 
-It sounded interesting so I decided to try it out for 30 days.
-I'm not sure which benefits to expect, but I've heard some promising testimonies like **"people can tell when I missed my pages".**
-That's good enough for me!
+The idea seemed like a mix of keeping diary and exercising mindfulness (two activities well known for being beneficial).
+One of the testimonies was **"I'm doing it for a long time and people can tell when I missed my pages".**
+I wasn't entirely sure about the benefits, but it sounded interesting.
 
-I'll track my experience by keeping a journal.
+I decided to try it out for 30 days and track my experience in a journal.
 The journal will consist of four questions that I'll answer immediately after writing the pages. 
-I'll release the final review in a month, but I'd like to start by sharing collections of daily logs in frequent intervals.
+I'll release the **final review in a month**, but I'd like to start by sharing collections of daily logs in frequent intervals.
 
 Let's start with the first three days.
 
