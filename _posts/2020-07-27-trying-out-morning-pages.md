@@ -3,8 +3,8 @@ layout: post
 title:  "Trying out Morning Pages for 30 days"
 author: sergej
 categories: [Self Development]
-image: assets/images/deal-with-bad-code.jpg
-image_caption: "Photo Credit: <a href='https://unsplash.com/photos/MjKUUaYQQ6U' target='_blank'>Michelle Tresemer</a>"
+image: assets/images/morning-pages/trying-out-morning-pages.jpg
+image_caption: "Photo Credit: <a href='https://unsplash.com/photos/CKlHKtCJZKk' target='_blank'>Aaron Burden</a>"
 toc: true
 comments: false
 featured: true
@@ -20,49 +20,78 @@ You are done as soon as you have three handwritten A4 pages.
 
 The idea seemed like a mix of keeping diary and exercising mindfulness (two activities well known for being beneficial).
 One of the testimonies was **"I'm doing it for a long time and people can tell when I missed my pages".**
-I wasn't entirely sure about the benefits, but it sounded interesting.
+I wasn't entirely sure about the benefits, but it sounded promising.
 
-I decided to try it out for 30 days and track my experience in a journal.
+I decided to try it out for **30 days** and track my experience in a journal.
 The journal will consist of four questions that I'll answer immediately after writing the pages. 
 I'll release the **final review in a month**, but I'd like to start by sharing collections of daily logs in frequent intervals.
 
 Let's start with the first three days.
 
-# 15.07.2020
-- I feel .. clear and a bit emptied. I had had felt clear before the writing session as well.
-	- Can't be too bad to reinforce this feeling though.
-- I think .. filling a predetermined set of pages is a good writing exercise. 
-	- I reignited the joy of writing just yesterday. This is coming in just in time.
-- It took .. ~35 minutes. I think I can manage to write the bulk of the pages on the road.
-	- It would be alright to finish at my workplace.
-- I want to .. get to work and also write more articles.
+# "Clear and a bit more at peace" - 15.07.2020
+**I feel** .. clear and a bit more at peace.
+I had had felt clear before the writing session, but it can't be too bad to reinforce this feeling.
 
-# 16.07.2020
-- I feel .. good, productive and clear. In particular because of yesterdays experience watching "Your Name"
-- I think .. the pages are a kind of diary for me. I recap yesterday, jot thoughts about today and fill the last page with something. I wrote about mental health and habits today.
-- It took .. me 30 minutes. I wrote 1,75 pages at home and finished the rest in the bus.
-It was a bit bumpy, but alright considering I used the time productively.
-- I want to .. work on my company project. I have to work on my masters expose though.
+**I think** .. filling a predetermined set of pages is a **good writing exercise**. 
+My joy for writing reignited yesterday.
+I have a lot of ideas so this is coming just in time.
 
-# 17.07.2020
-- I feel .. good and I decided to have a day off today.
-- I think .. it's fascinating how fun this ritual turned out to be.
-	- It's been only 3 days and I'm already sold.
-	- Maybe it's just a "beginners enthusiasm", which is the equivalant of going to the gym 5 times a week
-	in the first month of signing up.
-	- Maybe it's just that, but I'm ready to advertise for it already. That means at least something.
-	- And even if I don't feel such strong feelings after a month 
-	-> The effects suggests that its essence is healthy and beneficial to you.
-	- It's the same thing with the gym: 
-	One might not feel the "beginners enthusiasm" anymore, but it doesn't mean that workouts got any less good.
-	- It's still healthy as fuck to workout.
-	- Humans just tend to mixup what's good for them and what's not.
-- It took .. 30 minutes. I even wrote a quarter page more than "I had to".
-- I want to .. continue my ritual of morning pages. 
-	- I would've written more if it wasn't for the limit. It might be good to have a limit.
-	- I wasn't sure about "why 3 pages". 
-	- I can already see that 2 pages would be too little to express yourself once you get into the habit.
-	- Writing more than 3 pages would be alright as well, but maybe it's helpful to limit yourself,
-	because you can get lost in it really easily.
-	- Maybe it's exploitable to write really longfold morning pages and feel productive.
-	- It of course boosts your productivity and enriches your life quality, but most of us have other responsibilities to do as well (responsibilities we get paid for or that are time sensitive).
+**It took** .. ~35 minutes.
+I wrote at home, but I think I can manage to write the bulk of pages on my commute to work.
+
+**I want to** .. get to work, but also do more writing.
+
+# "The pages are a kind of diary" - 16.07.2020
+**I feel** .. good, productive and clear.
+In particular because of yesterdays experience watching ["Your Name"](/blog/your-name-review).
+
+**I think** .. the **pages are a kind of diary/ organizer for me**.
+I mostly recap yesterday, jot thoughts about today and fill the last page with something random.
+I wrote about mental health and habits this time.
+
+**It took**  .. me 30 minutes.
+I wrote 1,75 pages at home and finished the rest in the bus.
+The drive was a bit bumpy, but alright considering I used the time productively.
+
+**I want to** .. continue yesterdays work, but I need to get on with my masters expose.
+
+# "Why it's 3 pages" - 17.07.2020
+**I feel** .. good and decided to have a day off.
+
+**I think** .. it's fascinating how fun this habit turned out to be.
+It's been only 3 days and I'm ready to advertise for it on the internet!
+
+Of course, it could just be "beginners enthusiasm" (the equivalant of going to the gym 5 times a week for the first week), but I feel like it's deeper.
+My intuition suggests that Morning Pages are healthy and beneficial.
+
+It's the same as the gym:
+You went for a workout and enjoyed it.
+That's why you came back.
+Time goes by and you might not feel as inclined to workout anymore.
+That doesn't mean that workouts got any less good for you though.
+Humans just tend to mixup what's good for them and what's not.
+
+**It took** .. 30 minutes.
+I even wrote a quarter page more than "I had to".
+
+**I want to** .. continue todays Morning Pages. 
+I would've written more if it wasn't for the limit of 3 pages.
+I wasn't sure why exactly three, but I've got an idea:
+
+- 1 page is too dense.
+You'd have to prioritize what to write about.
+This is an important skill, but not our goal here.
+
+- 2 pages don't cut it either.
+I (personaly) noticed that it's "easy" to fill the first two pages.
+It requires a hunch of self reflection to find a topic for the third page.
+That seems like a good thing to me.
+
+- At the same time, 2 pages might be too little for someone who got into the habit.
+
+- Writing more than 3 pages could be alright, but maybe it's helpful to set a limit, because it's easy to get lost.
+I guess it can be exploitable to write really longfold Morning Pages and feel productive.
+The practice is beneficial, assuming that it enriches our life quality, but most of us have other responsibilities beside scribling like mad men.
+
+This is of course just my opinion and one of many possible conclusions.
+What are your thoughts?
