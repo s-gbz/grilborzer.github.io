@@ -41,3 +41,16 @@ Transitioning onto the third page required a bit of imagination today, but it wa
 - I think .. it might be a better idea to dedicate writing time at home, because being stressed to write defeats the purpose.
 - It took .. 35 minutes with 30 minutes between the two sessions.
 - I want to .. figure out if I was irritable, because I got up at 6 o'clock instead of 7 like yesterday.
+
+# 21.07.2020
+**I feel** .. relaxed and more insightful.
+Todays writing process was harder though.
+I actually struggled to find content after the first page was filled.
+It helped to remember that **Morning Pages can be about anything**.
+So I wrote a letter to myself.
+It was really insightful and long due.
+**I think** .. that I might enjoy the Morning Pages, because I feel the need to write in general.
+Time will tell how the pages are spent.
+**It took** .. me longer today. About ~45-50 minutes.
+I tried to make the letter compact and express myself properly.
+**I want to** .. learn more about the craft of writing.
