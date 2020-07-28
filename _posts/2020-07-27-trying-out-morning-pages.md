@@ -31,7 +31,7 @@ I had had felt clear before the writing session, but it can't be too bad to rein
 
 **I think** .. filling a predetermined set of pages is a **good writing exercise**. 
 My joy for writing reignited yesterday.
-I have a lot of ideas so this is coming just in time.
+I have a lot of ideas, so this is coming just in time.
 
 **It took** .. ~35 minutes.
 I wrote at home, but I think I can manage to write the bulk of pages on my commute to work.
@@ -40,7 +40,7 @@ I wrote at home, but I think I can manage to write the bulk of pages on my commu
 
 # "The pages are a kind of diary" - 16.07.2020
 **I feel** .. good, productive and clear.
-In particular because of yesterdays experience watching ["Your Name"](/blog/your-name-review).
+In particular because of yesterday’s experience watching ["Your Name"](/blog/your-name-review).
 
 **I think** .. the **pages are a kind of diary/ organizer for me**.
 I mostly recap yesterday, jot thoughts about today and fill the last page with something random.
@@ -50,7 +50,7 @@ I wrote about mental health and habits this time.
 I wrote 1,75 pages at home and finished the rest in the bus.
 The drive was a bit bumpy, but alright considering I used the time productively.
 
-**I want to** .. continue yesterdays work, but I need to get on with my masters expose.
+**I want to** .. continue yesterday’s work, but I need to get on with my master’s expose.
 
 # "Why it's 3 pages" - 17.07.2020
 **I feel** .. good and decided to have a day off.
@@ -58,7 +58,7 @@ The drive was a bit bumpy, but alright considering I used the time productively.
 **I think** .. it's fascinating how fun this habit turned out to be.
 It's been only three days and I'm ready to advertise for it on the internet!
 
-Of course, it could just be "beginners enthusiasm" (the equivalant of going to the gym five times a week for the first week), but I feel like it's deeper.
+Of course, it could just be "beginners’ enthusiasm" (the equivalent of going to the gym five times a week for the first week), but I feel like it's deeper.
 My intuition suggests that Morning Pages are healthy and beneficial.
 
 It's the same as the gym:
@@ -66,7 +66,7 @@ You went for a workout and enjoyed it.
 That's why you came back.
 Time goes by and you might not feel as inclined to workout anymore.
 That doesn't mean that workouts got any less good for you though.
-Humans just tend to mixup what's good for them and what's not.
+Humans just tend to mix-up what's good for them and what's not.
 
 **It took** .. 30 minutes.
 I even wrote a quarter page more than "I had to".
@@ -81,12 +81,12 @@ This is an important skill, but not our goal here.
 
 - Two pages don't cut it either.
 I noticed that it's usually "easy" to fill the first two pages.
-It requires a hunch of self reflection to find a topic for the third page.
+It requires a hunch of self-reflection to find a topic for the third page.
 That seems like a good thing to me.
 
 - Writing more than three pages could be alright, but maybe it's helpful to set a limit, because it's easy to get lost.
-I guess it can be exploitable to write really longfold Morning Pages and feel productive.
-The practice is beneficial, assuming that it enriches our life quality, but most of us have other responsibilities beside scribling like mad men.
+I guess it can be exploitable to write really long fold Morning Pages and feel productive.
+The practice is beneficial, assuming it enriches our life quality, but most of us have other responsibilities beside scribbling like mad men.
 
 This is of course just my opinion and one of many possible conclusions.
 What are your thoughts?
