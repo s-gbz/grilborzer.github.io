@@ -11,46 +11,66 @@ featured: false
 hidden: false
 ---
 
-Part2
+Welcome to part 2 of my journaling series.
 
-# 18.07.2020
-- I feel .. tired. Probably because of yesternights wine. I am motivated to tackle the day though (it's 1 PM LOL).
-- I think .. about an idea that came up during the journaling. I will also consider my journaling content.
-	- There is no right or wrong to write morning pages, but I noticed a pattern of recaping the day vs expanding on ideas.
-	- Both topics matter to me. The number of pages is what limits me.
-	I want to finish the day, but I also want to explore ideas I get.
-	Right now I'm "mechanicaly" jotting down what comes to mind. That is good.
-	- Maybe it could be beneficial to make a (full) stop and reflect once in a while.
-	- Maybe I should write the random ideas on the side of the page or capture them on some other media to come back to them later/ directly after.
-	- This might be _the_ solution: It would allow gathering multiple ideas, because each would get a little room to be discovered, but not too much as to leave room for others.
-		- Each wortwhile thought can later be expanded as much as needed. 
-- It took .. 45 minutes today, because I'm a bit tired and had to do some flossing in between.
-- I want to .. have some coffee, decide on a draft to finish, clean the house and watch a nice movie afterwards. I'm thinking Akira or Nightcrawler :think:.
 
-# 19.07.2020
-- I feel .. tired, because I first spent 2 hours preparing and eating the most perfect pancakes and 2 hours meticulously scrubbing the bathroom afterwards.
+# "Exploring ideas that come up" - 18.07.2020
+**I feel** .. tired. Probably because of yesternight's wine.
+I am motivated to tackle the day though (it's 1 PM LOL).
+
+**I think** .. about ideas that came up during the writing session.
+I consider how to handle them most efficiently.
+
+Morning Pages are highly individual.
+I like **recaping the day and drifting into ideas** that come up.
+This approach has an inherent problem:
+There's a limit of three pages.
+
+A compromise might be **exploring the idea briefly and** then tracking it somewhere else to **come back later**.
+I think that worthwhile thoughts can be stored away safely if their essence is captured in time.
+
+**It took** .. 45 minutes today.
+
+**I want to** .. have some coffee, decide on one of my many drafts to finish, clean the house and watch a nice movie afterwards.
+I'm thinking Akira or Nightcrawler.
+(It turned out to be Nightcrawler!)
+
+# "The third page was hard, but worth it" - 19.07.2020
+**I feel** .. tired, because I first spent two hours preparing and eating the most perfect pancakes and two hours meticulously scrubbing the bathroom afterwards.
 (Cleaning the bathroom was _not_ related to my breakfast)
 Anyways, the day started well so far!
-- I think .. about a recent article topic ("Handling Fight or Flight as a developer") and a little project to catch spelling mistakes in Markdown files.
-- It took .. 45 minutes today.
-Transitioning onto the third page required a bit of imagination today, but it was worth it.
-- I want to .. finish and publish my recent draft on mindfullness today! (Wow, the exclamation mark means I'm serious)
 
-# 20.07.2020
-- I ~feel~ .. felt irritable, because I didn't have breakfast at home, started writing in the shaky bus and had to finish writing at my work desk. I was rather easy to set off in the time between.
-- I think .. it might be a better idea to dedicate writing time at home, because being stressed to write defeats the purpose.
-- It took .. 35 minutes with 30 minutes between the two sessions.
-- I want to .. figure out if I was irritable, because I got up at 6 o'clock instead of 7 like yesterday.
+**I think** .. about a pottential topic for a blogpost - "**Handling Fight or Flight as a developer**".
+I'm also thinking about a little project to catch **spelling mistakes in Markdown** files.
+Is there such a Github Action/ CI component?
 
-# 21.07.2020
+**It took** .. 45 minutes today.
+Transitioning onto the third page required a bit of **imagination** today, but **it was worth it**.
+
+**I want to** .. finish and publish my recent draft on mindfullness today! (Wow, the exclamation mark means I'm serious)
+
+# "Is it better to write at home?" - 20.07.2020
+**I <s>feel</s> felt** ..  irritable, because I didn't have breakfast, started writing in a shaky bus and had to finish writing at my work desk.
+I was rather easy to set off in the time between.
+
+**I think** .. it **might be** a **better** idea to dedicate time **to write at home**.
+Being stressed to finish defeats the purpose.
+
+**It took** .. 35 minutes with 30 minutes between the two sessions.
+
+**I want to** .. figure out if I was irritable, because I got up at six o'clock instead of seven like yesterday.
+
+# "Morning Pages can be about anything" - 21.07.2020
 **I feel** .. relaxed and more insightful.
 Todays writing process was harder though.
 I actually struggled to find content after the first page was filled.
 It helped to remember that **Morning Pages can be about anything**.
-So I wrote a letter to myself.
+So I **wrote a letter** to myself.
 It was really insightful and long due.
-**I think** .. that I might enjoy the Morning Pages, because I feel the need to write in general.
+
+**I think** .. that **I might enjoy the Morning Pages, because I feel the need to write in general**.
 Time will tell how the pages are spent.
-**It took** .. me longer today. About ~45-50 minutes.
-I tried to make the letter compact and express myself properly.
+
+**It took** .. me about ~45-50 minutes, because I tried to make the letter compact and express myself properly.
+
 **I want to** .. learn more about the craft of writing.
