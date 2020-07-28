@@ -20,12 +20,9 @@ You are done as soon as you have three handwritten A4 pages.
 
 The idea seemed like a mix of keeping diary and exercising mindfulness (two activities well known for being beneficial).
 One of the testimonies was **"I'm doing it for a long time and people can tell when I missed my pages".**
-I wasn't entirely sure about the benefits, but it sounded promising.
-
 I decided to try it out for **30 days** and track my experience in a journal.
-The journal will consist of four questions that I'll answer immediately after writing the pages. 
-I'll release the **final review in a month**, but I'd like to start by sharing collections of daily logs in frequent intervals.
 
+There'll be a **final review**, but I'd like to release the full journal in small bits.
 Let's start with the first three days.
 
 # "Clear and a bit more at peace" - 15.07.2020
@@ -59,9 +56,9 @@ The drive was a bit bumpy, but alright considering I used the time productively.
 **I feel** .. good and decided to have a day off.
 
 **I think** .. it's fascinating how fun this habit turned out to be.
-It's been only 3 days and I'm ready to advertise for it on the internet!
+It's been only three days and I'm ready to advertise for it on the internet!
 
-Of course, it could just be "beginners enthusiasm" (the equivalant of going to the gym 5 times a week for the first week), but I feel like it's deeper.
+Of course, it could just be "beginners enthusiasm" (the equivalant of going to the gym five times a week for the first week), but I feel like it's deeper.
 My intuition suggests that Morning Pages are healthy and beneficial.
 
 It's the same as the gym:
@@ -75,21 +72,19 @@ Humans just tend to mixup what's good for them and what's not.
 I even wrote a quarter page more than "I had to".
 
 **I want to** .. continue todays Morning Pages. 
-I would've written more if it wasn't for the limit of 3 pages.
-I wasn't sure why exactly three, but I've got an idea:
+I would've written more if it wasn't for the limit of three pages.
+I wasn't sure why it's supposed to be three, but I've got an idea:
 
-- 1 page is too dense.
+- One page is too dense.
 You'd have to prioritize what to write about.
 This is an important skill, but not our goal here.
 
-- 2 pages don't cut it either.
-I (personaly) noticed that it's "easy" to fill the first two pages.
+- Two pages don't cut it either.
+I noticed that it's usually "easy" to fill the first two pages.
 It requires a hunch of self reflection to find a topic for the third page.
 That seems like a good thing to me.
 
-- At the same time, 2 pages might be too little for someone who got into the habit.
-
-- Writing more than 3 pages could be alright, but maybe it's helpful to set a limit, because it's easy to get lost.
+- Writing more than three pages could be alright, but maybe it's helpful to set a limit, because it's easy to get lost.
 I guess it can be exploitable to write really longfold Morning Pages and feel productive.
 The practice is beneficial, assuming that it enriches our life quality, but most of us have other responsibilities beside scribling like mad men.
 
