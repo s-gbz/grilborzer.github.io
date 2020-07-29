@@ -2,7 +2,7 @@
 {% assign author = site.authors[post.author] %}
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
+    <div class="card h-100" onclick="window.location='{{ post.url }}';" style="cursor: pointer;">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
@@ -16,7 +16,9 @@
                 {% endif %}
             </a>
         </div>
+        
         <div class="card-body">
+            
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {% if post.rating %}
@@ -26,7 +28,9 @@
                 {% endif %}
             </h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            
         </div>
+        
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {% if post.author %}
