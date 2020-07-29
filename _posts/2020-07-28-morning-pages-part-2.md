@@ -22,7 +22,7 @@ I am motivated to tackle the day though (it's 1 PM LOL).
 I consider how to handle them most efficiently.
 
 Morning Pages are highly individual.
-I like **recaping the day and drifting into ideas** that come up.
+I like **recapping the day and drifting into ideas** that come up.
 This approach has an inherent problem:
 There's a limit of three pages.
 
@@ -40,14 +40,14 @@ I'm thinking Akira or Nightcrawler.
 (Cleaning the bathroom was _not_ related to my breakfast)
 Anyways, the day started well so far!
 
-**I think** .. about a pottential topic for a blogpost - "**Handling Fight or Flight as a developer**".
+**I think** .. about a potential topic for a blogpost - "**Handling Fight or Flight as a developer**".
 I'm also thinking about a little project to catch **spelling mistakes in Markdown** files.
-Is there such a Github Action/ CI component?
+Is there such a GitHub Action/ CI component?
 
 **It took** .. 45 minutes today.
 Transitioning onto the third page required a bit of **imagination** today, but **it was worth it**.
 
-**I want to** .. finish and publish my recent draft on mindfullness today! (Wow, the exclamation mark means I'm serious)
+**I want to** .. finish and publish my recent draft on mindfulness today! (Wow, the exclamation mark means I'm serious)
 
 # "Is it better to write at home?" - 20.07.2020
 **I <s>feel</s> felt** ..  irritable, because I didn't have breakfast, started writing in a shaky bus and had to finish writing at my work desk.
@@ -62,10 +62,10 @@ Being stressed to finish defeats the purpose.
 
 # "Morning Pages can be about anything" - 21.07.2020
 **I feel** .. relaxed and more insightful.
-Todays writing process was harder though.
+Today’s writing process was harder though.
 I actually struggled to find content after the first page was filled.
 It helped to remember that **Morning Pages can be about anything**.
-So I **wrote a letter** to myself.
+So, I **wrote a letter** to myself.
 It was really insightful and long due.
 
 **I think** .. that **I might enjoy the Morning Pages, because I feel the need to write in general**.
