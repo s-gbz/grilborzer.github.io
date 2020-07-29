@@ -11,8 +11,8 @@ featured: false
 hidden: false
 ---
 
-Welcome to part 2 of my journaling series.
-
+Welcome to part two of my journaling series (I think there might be ten in total).
+Feel free to breeze through the headlines and highlights as there wasn't anything groundbreaking. 
 
 # "Exploring ideas that come up" - 18.07.2020
 **I feel** .. tired. Probably because of yesternight's wine.
@@ -58,7 +58,7 @@ Being stressed to finish defeats the purpose.
 
 **It took** .. 35 minutes with 30 minutes between the two sessions.
 
-**I want to** .. figure out if I was irritable, because I got up at six o'clock instead of seven like yesterday.
+**I want to** .. figure out if I was solely irritable, because I got up at six o'clock instead of seven like yesterday.
 
 # "Morning Pages can be about anything" - 21.07.2020
 **I feel** .. relaxed and more insightful.
