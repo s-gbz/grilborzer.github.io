@@ -29,16 +29,16 @@ I have neglected that.
 I'm bothered when people at train stations smoke outside the designated smoking areas.
 I suspect that most people are.
 Very few will confront the smokers though.
-Confrontatin is something we avoid, because it's uncomfortable.
+Confrontation is something we avoid, because it's uncomfortable.
 
 >
-**The majority of things worth doing are uncomfortable!**
+**Most of the worthwhile is uncomfortable!**
 Doing those things is a habit and it's a critical one.
 Your decision to act impacts your next decision.
 Do it more and it gets easier.
 Do it less and it gets harder.
 
-It might seem trivial, but remember that it's the **little things that shape our life**.
+It might seem trivial but remember that it's the **little things that shape our life**.
 This not only demonstrated by [the compound effect](https://www.goodreads.com/book/show/9420697-the-compound-effect), but also by ancient wisdom:
 
 >“
