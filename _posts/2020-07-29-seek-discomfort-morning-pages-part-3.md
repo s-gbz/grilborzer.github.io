@@ -39,7 +39,7 @@ Do it more and it gets easier.
 Do it less and it gets harder.
 
 It might seem trivial but remember that it's the **little things that shape our life**.
-This not only demonstrated by [the compound effect](https://www.goodreads.com/book/show/9420697-the-compound-effect), but also by ancient wisdom:
+This not only demonstrated by [the compound effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) (here's a [great summary](https://jamesclear.com/book-summaries/the-compound-effect)), but also by ancient wisdom:
 
 >“
 >Watch your thoughts, they become your words;
