@@ -4,7 +4,7 @@ title:  "Seek discomfort - Journaling Morning Pages #3"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/journaling-morning-pages-3.jpg
-image_caption: "Photo Credit: <a href='https://unsplash.com/photos/CxYHfBkC0vs' target='_blank'>Calum MacAulay</a>"
+image_caption: "Photo Credit: <a href='https://unsplash.com/photos/wmUHw-Y4HpE' target='_blank'>Talen de St. Croix</a>"
 toc: true
 comments: false
 featured: false
