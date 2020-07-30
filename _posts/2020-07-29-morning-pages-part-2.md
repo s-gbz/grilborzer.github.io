@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journaling Morning Pages #2"
+title:  "Exploring ideas - Journaling Morning Pages #2"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/journaling-morning-pages-2.jpg
