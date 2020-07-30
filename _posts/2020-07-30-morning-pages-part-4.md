@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journaling Morning Pages #4"
+title:  "Why Morning Pages are good - Journaling Morning Pages #4"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/journaling-morning-pages-4.jpg
@@ -11,54 +11,36 @@ featured: false
 hidden: false
 ---
 
-Part4
+Part four tells the story of reflection, humility and responsibility.
+We explore the power of our actions and shun all trace of victimhood.
+I hope you're not sick of mindfulness yet 😜
 
-# 25.07.2020 
-I feel satisfied, because I realized what makes Morning Pages beneficial.
+# "Take a minute to reflect" - 25.07.2020 
+**I feel**.. satisfied, because I realized what makes Morning Pages beneficial.
+There's a bit of a story behind it:
+
 Yesterday was a mediocre evening.
-I went out for Drinks with a small group of people.
-I was really looking forward to it. Unfortunately, things weren't as expected.
-The group dynamic was rather cool and alien.
+I went out for drinks with a small group of people.
+Though I was really looking forward to it, things didn't go as expected.
+The group dynamic was low and cool.
 There was occasional group chat, but a lot of the time was spent in uncomfortable two on two dialogs.
-Two people talked over an insider topic the other two were excluded.
 I tried my best to break the ice and engage a shared conversation.
-Needless to say that I got increasingly aggravated as nothing changed and the evening went on.
-I was finally relieved as I went got onto my train home.
+Needless to say that I got increasingly aggravated as things didn't get better.
+My relief to go home was saddeningly great.
 
-As I woke up today I was still tangled in yesterdays evening.
-I contemplated on the situation during breakfast, but only made my peace with it when I started writing the Morning Pages.
-Expressing my unfiltered opinion to an unbiased listener was cathartic.
-I strongly dislike discussing people, but felt the need to get into off my chest.
-The writing helped me realize what bothered me about the group and most importantly it helped me realize that I don't appreciate my behaviour.
-Things felt off for me.
-But that's just my perspective.
-I couldn't change them and turned sour.
-Maybe it felt alright for my peers though.
-Long story short, I think that I increasingly seemed rude and disrespectful.
-I don't approve of such behaviour and it was nagging on me.
-As the writing went I thought about possibilities to handle the situation.
-I decided to appologize and briefly explain what bothered me.
-After all I am responsible for my actions.
-I forgive the other person and don't even want to discuss the topic.
-We can't change what's happened.
-We can amend for our own actions though.
+As I woke up the next day, I was still tangled in the night's events.
+Something was nagging on me, but I couldn't put my finger on it.
+I found my peace as I started writing the Morning Pages.
+Expressing my unfiltered opinion to an unbiased listener was soothing.
+The writing helped me verbalize what bothered me about yesternight's events:
+**It was not only the group dynamic, but also my own behaviour.**
+As I took responsibility and appologized, the burden fell of my chest.
 
-I think it's mandatory to reflect what's inside us on a daily basis.
-Our lifes are busy and routinzed.
-We often feel bothered without realizing that we're.
-Our subconscious is always busy processing what happened.
-I think it's highly beneficial to be more mindful and help it sort things out.
-The effects can seem outwordly. (link zu dem jeweiligen post).
+**I think**.. it's mandatory to reflect our thoughts on a daily basis.
+Lack of self-awareness is unhealthy and can even be a health risk when taken to the extreme.
+I hope we can agree on that without me having to write an essay on it.
 
-It took 1.5 hours writing the Morning Pages and summing up my thoughts in this journal entry.
+**It took**.. 1.5 hours writing the Morning Pages and summing up my thoughts in the raw journal entry (I've cut half of it for this post).
 It's mainly for myself, but I'd be really glad if it helps out someone else.
 
-I want to be more mindful what's going on in my subconscious.
-
-# 26.07.2020
-**I feel** .. no motivation to do anything, but watch Netflix.
-**I think** .. about nothing.
-Honestly nothing.
-That's good I guess.
-**It took** .. only 30 minutes, but it felt longer today.
-**I want to** .. socialize?
+**I want**.. to be more mindful what's going on in my subconscious.
