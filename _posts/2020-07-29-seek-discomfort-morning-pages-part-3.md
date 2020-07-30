@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seek discomfort - Journaling Morning Pages #3"
+title:  "Being uncomfortable - Journaling Morning Pages #3"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/journaling-morning-pages-3.jpg
@@ -14,7 +14,7 @@ hidden: false
 Here goes part three.
 I've removed the logs of the 22nd & 23rd july, because they consisted of one liners.
 The 24th is special though.
-It deals with being uncomfortable.
+It deals with discomfort.
 
 # "The worthwhile is uncomfortable" - 24.07.2020
 **I feel** .. wholesome to have written the pages.
@@ -54,4 +54,4 @@ This not only demonstrated by [the compound effect](https://www.goodreads.com/bo
 >
 >― Lao Tzu 
 
-Pay attention. [Seek discomfort](https://youtube.com/yestheory).
+Pay attention. [Seek discomfort](https://www.youtube.com/watch?v=iDN7xlv3xxM).
