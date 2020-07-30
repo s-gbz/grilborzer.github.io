@@ -8,7 +8,7 @@ image_caption: "Photo Credit: <a href='https://unsplash.com/@aaronburden?utm_med
 beforetoc: "A personal list of things to study"
 toc: false
 comments: false
-featured: true
+featured: false
 hidden: true
 ---
 
@@ -57,14 +57,14 @@ If you read this it means that I managed the first tasks I set myself up for ðŸŽ
   - [ ] -> Build a Progressive Web App
 
 ### Testing
-- [ ] Jest
-- [ ] Jasmine
+- [X] Jest
+- [X] Jasmine
 - [ ] Mocha
 - [ ] Selenium
 - [ ] Cypress
 
 ### Server-Side with JS
-- [ ] Node.js Server
+- [X] Node.js Server
 - [ ] Fastify Server
 - [ ] GraphQL
 
@@ -85,8 +85,8 @@ If you read this it means that I managed the first tasks I set myself up for ðŸŽ
   - [ ] OOCSS 
 
 ### UX Design
-- [ ] Self educate
-  - [ ] Look for books
+- [X] Self educate
+  - [X] Look for books
   - [ ] Take an online course
   - [ ] Design a demo site with Adobe XD
 - [ ] Build a 100% responsive CV site
