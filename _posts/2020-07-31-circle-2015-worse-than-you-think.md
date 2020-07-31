@@ -17,7 +17,7 @@ Spoilers ahead! (Not that you'd miss anything)
 
 # Recap: A promising premise
 50 strangers are lined up in a circle and slowly wake up from unconsciousness.
-People start dying periodicaly.
+People start dying periodically.
 Someone notices that deaths are related to a vote system.
 The most voted person dies.
 Circumstances are stressful.
@@ -31,10 +31,10 @@ The show goes on until three are left:
 A pregnant woman, a little girl and "the brave, good guy defending them".
 **It turns out the "good guy" is actually a sociopath.**
 He first tricks the crowd and finally convinces the little girl to step into suicide to save the pregnant.
-As the little girl follows orders sociopath votes for the pregant woman and thus ends up the last man standing.
+As the little girl follows orders sociopath votes for the pregnant woman and thus ends up the last man standing.
 
-It is then teased that he has to die anyway (which might have been a great ending).
-We quickly learn that it's actually just an accidental tie between him and the fetus inside the pregant woman.
+It is then teased that he must die anyway (which might have been a great ending).
+We quickly learn that it's just an accidental tie between him and the fetus inside the pregnant woman.
 I guess fetuses can survive deadly shocks that instantly kill their (carrying) mother.
 
 Sociopath leaves the circle and meets other survivors.
@@ -44,7 +44,7 @@ They're mostly women and children.
 Image taken from http://missascene.blogspot.com/2016/01/circle-2015.html
 
 # Wasted potential
-My first thought was "An ethical dilema played out with a cross-section of society - nice!"
+My first thought was "An ethical dilemma played out with a cross-section of society - nice!"
 It was too late when I noticed that there was nothing clever behind the choice of the people or the decisions they made.
 There were barely any interconnected backstories (as seen in the SAW movies) or past crimes that were revealed and weight out.
 
@@ -52,10 +52,10 @@ The plot plays around a nihilistic setting in a tiresome discussion with little 
 One might root for some people to die, but I found no connection to any of the characters.
 Maybe that was the intention, because there're no protagonists in a situation like this.
 I appreciate the plot twist and the unexpected survivor.
-However I critize that there's no emotional impact.
+However, I criticize that there's no emotional impact.
 
 # Why I didn't like it
-I was really hoping for more questions than answers, but there's no mistery left.
+I was really hoping for more questions than answers, but there's no mystery left.
 We actually see UFOs after the sociopath is released.
 There is nothing to guess and nothing to contemplate.
 Just a sociopath surviving a murder game.
