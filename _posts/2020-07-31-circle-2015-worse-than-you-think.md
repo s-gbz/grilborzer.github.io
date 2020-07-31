@@ -4,7 +4,7 @@ title:  "Circle (2015) - Worse than you think"
 author: sergej
 categories: [Movie Review]
 image: assets/images/circle.jpg
-image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt5311514/mediaviewer/rm3216783616' target='_blank'>IMDb</a>"
+image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt3118452/mediaviewer/rm1797452544' target='_blank'>IMDb</a>"
 toc: true
 comments: false
 featured: false
@@ -18,7 +18,7 @@ Spoilers ahead! (Not that you'd miss anything)
 # Recap: A promising premise
 50 strangers are lined up in a circle and slowly wake up from unconsciousness.
 People start dying periodically.
-Someone notices that deaths are related to a vote system.
+Someone notices that **deaths are related to a vote system**.
 The most voted person dies.
 Circumstances are stressful.
 The crowd tries to cooperate and outplay the system.
@@ -34,7 +34,7 @@ He first tricks the crowd and finally convinces the little girl to step into sui
 As the little girl follows orders sociopath votes for the pregnant woman and thus ends up the last man standing.
 
 It is then teased that he must die anyway (which might have been a great ending).
-We quickly learn that it's just an accidental tie between him and the fetus inside the pregnant woman.
+We quickly learn that it's just an accidental **tie between him and the fetus** inside the pregnant woman.
 I guess fetuses can survive deadly shocks that instantly kill their (carrying) mother.
 
 Sociopath leaves the circle and meets other survivors.
@@ -44,15 +44,14 @@ They're mostly women and children.
 Image taken from http://missascene.blogspot.com/2016/01/circle-2015.html
 
 # Wasted potential
-My first thought was "An ethical dilemma played out with a cross-section of society - nice!"
+My first thought was "an **ethical dilemma** played out with a cross-section of society - nice!"
 It was too late when I noticed that there was nothing clever behind the choice of the people or the decisions they made.
-There were barely any interconnected backstories (as seen in the SAW movies) or past crimes that were revealed and weight out.
+There were **barely any interconnected backstories** (as seen in the SAW movies) or past crimes that were revealed and weight out.
 
 The plot plays around a nihilistic setting in a tiresome discussion with little change and unimpactful deaths.
-One might root for some people to die, but I found no connection to any of the characters.
-Maybe that was the intention, because there're no protagonists in a situation like this.
-I appreciate the plot twist and the unexpected survivor.
-However, I criticize that there's no emotional impact.
+A few of the characters were written to be disliked, but there was no one I felt any connection towards.
+I do **appreciate the plot twist** and the unexpected survivor.
+However, I criticize that there's **no emotional impact**.
 
 # Why I didn't like it
 I was really hoping for more questions than answers, but there's no mystery left.
