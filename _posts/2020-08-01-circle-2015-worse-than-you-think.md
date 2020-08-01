@@ -53,7 +53,7 @@ A few of the characters were written to be disliked, but there was no one I felt
 I do **appreciate the plot twist** and the unexpected survivor.
 However, I criticize that there's **no emotional impact**.
 
-# Why I didn't like it
+# No questions left
 I was really hoping for more questions than answers, but there's no mystery left.
 We actually see UFOs after the sociopath is released.
 There is nothing to guess and nothing to contemplate.
