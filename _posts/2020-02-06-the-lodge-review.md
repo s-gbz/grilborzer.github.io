@@ -57,13 +57,13 @@ The solution is **subverting expectations**.
 The successful execution of this concept is what made me gasp, fear and love The Lodge.
 We fear what we don't see and expect *something* to happen.
 We do know a lot of clichés after all.
-The movies makes sure to give us a hint of everything:
+The movie makes sure to give us a hint of everything:
 
 - We see the menacing glare of the religious portrait and wonder "Did the eyes just move?".
 - We move around the house and fear the pressing darkness of each corner thinking "What is going to jump on us?".
 - There's an empty room between the bedrooms - 
 Do you remember how the door opened itself and you've been waiting to see "something come out of it"?
-- Finally there was a creature sneaking in the house at night.
+- Finally, there was a creature sneaking in the house at night.
 Was it Aidan? Was it Grace? Could there be a demon in the house?
 
 The atmosphere is drenched in questions and mystery.
@@ -71,19 +71,19 @@ Not knowing what to expect makes us expect everything.
 As a friend eloquently summarized "The tension was topped by even more tension".
 
 ### Implications and consequences
-The big twist is that the misterious events were staged by the kids.
+The big twist is that the mysterious events were staged by the kids.
 Love it, hate it, but consider the implication that made me chew on the movie for days:
 **How terrible can a person be?**
 
 # The terror of mankind
 The ability to feel and share emotions is not a privilege to man alone as it is beneficial to survival of many species.
-It is the extension of mankinds reasoning and long term planing that extends this feature into curse and blessing.
+It is the extension of mankind’s reasoning and long-term planning that extends this feature into curse and blessing.
 
 Previous generations and horror movies dwelled on the mysteries of the unknown.
 The terror of the universe and the idea how scary a mystical creature can be.
 Growing up and seeing those terrors on screen for a long time made the mystery way too familiar though.
 The new kind of terror lies in mankind and its capacity to misuse the mutual understanding.
-Hugely popular projects like [Get Out](https://www.imdb.com/title/tt5052448/) and [Black Mirror](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) seem to support this assumtion.
+Hugely popular projects like [Get Out](https://www.imdb.com/title/tt5052448/) and [Black Mirror](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) seem to support this assumption.
 
 The definition of horror thus turns from "How terrible can a mystical creature be?" to "**How terrible can human beings be to each other?**". 
 From "What terror lies in the world" to "What terror lies inside of us".
@@ -119,13 +119,13 @@ You might remember that the kids once accused their dad of marrying "a psycho".
 I think this is highly ironic considering the wicked games they played with Grace.
 
 We know that humans are capable of lying, deceiving and torturing, but
-- .. who else believed that Aidan and Mia were genuinly shocked when their belongings disappeared?
-- .. who else thought that Aidan was genuinly surprised when Grace confronted him about spying on her?
-- .. who would assume that **a couple of 14 (?) year olds would torture an innocent, traumatized woman?**
+- .. who else believed that Aidan and Mia were genuinely shocked when their belongings disappeared?
+- .. who else thought that Aidan was genuinely surprised when Grace confronted him about spying on her?
+- .. who would assume that **a couple of 14 (?) year old's would torture an innocent, traumatized woman?**
 
-I would assume this a rather unnatural behaviour for kids.
+I would assume this a rather unnatural behavior for kids.
 
-## Aidans indications of Antisocial Personality Disorder
+## Aidan's indications of Antisocial Personality Disorder
 Consider the [WHOs characteristics](https://www.who.int/classifications/icd/en/bluebook.pdf) of dissocial personality disorder.
 > It is characterized by at least 3 of the following:
 >
@@ -141,16 +141,16 @@ Consider what we know about Aidan:
 **Aidan barely displayed any kinds emotions during the whole movie.**
 - He didn't shed a single tear during and after the funeral of their mother.
 - He didn't flinch when Grady died.
-- He was totaly detached towards Grace and her self mutilation.
+- He was totally detached towards Grace and her self-mutilation.
 - He stayed absolutely calm as he was faced with certain death. 
 
-**I think that Aidans behaviour can be interpreted as signs of Antisocial Personality Disorder.**
+**I think that Aidan's behaviour can be interpreted as signs of Antisocial Personality Disorder.**
 
 ### "So, is Aidan a 'psychopath' or a 'sociopath'"?
 I think assigning him in one of those categories is not possible since we
 - don't see him interact with people outside his family
 - don't have much information how things were before the divorce
-- have no information upon family history (except for his mothers suicide)
+- have no information upon family history (except for his mother's suicide)
 - Also: I'm not a psychologist :P
 
 The extent and use of these terms are disputed among professionals anyways.
@@ -160,13 +160,13 @@ I never saw closing credits as stiff and motionless as I did during The Lodge
 (partly because of the sinister, huge and haunting score).
 
 The Lodge is an instant classic of modern horror - 
-an immersive experience that builds and excells on worn out horror tropes.
+an immersive experience that builds and excels on worn out horror tropes.
 It not only assumes, but finally acknowledges you the viewer to be smart.
 
 Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes-pacing).
 Thank you to the cast and crew for making this movie happen - This is what horror should be like!
 
-PS: A great applause to the team of [Joker](/blog/joker-review) and Joaquin Phoenix for claiming its well deserved Oscar <3!
+PS: A great applause to the team of [Joker](/blog/joker-review) and Joaquin Phoenix for claiming its well-deserved Oscar <3!
 Same goes for Brad Pitt in [Once Upon A Time.. In Hollywood](/blog/once-upon-a-time-review).
 
 ## Further notes: Pacing 
@@ -185,7 +185,7 @@ Aidan and Mia strongly disagree.
 They blame Grace for the death of her mother and project the root of their pain on her.
 
 Their **revenge is a self-fulfilling prophecy** though.
-As their scheme escalates, Grace loses herself and *then literaly* brings pain to the family.
+As their scheme escalates, Grace loses herself and *then literally* brings pain to the family.
 **Their disturbed perception turns into reality.**
 
 In case you didn't notice: The puppet house scenes were a visualization of the plan.
