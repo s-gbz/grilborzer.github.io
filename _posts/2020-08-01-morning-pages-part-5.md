@@ -35,9 +35,13 @@ Guess what, they spoke Spanish.
 # "Writing makes me confident" - 29.07.2020
 **I feel** .. better and more confident than I did before the pages.
 This is prime example of the magic of writing.
-I woke up deprived, blue and joyless.
 
-Naturally, this is what I wrote about first.
+
+I woke up deprived, blue and joyless.
+Naturally, I wrote about those feelings first.
+
+
+
 Having realised that, I began to build myself up.
 I can't stand putting myself down.
 So I build myself up again.
@@ -46,7 +50,7 @@ Sometimes we have to tear ourselves down in order to better ourselves.
 I can't say that I feel "happy" right now.
 But at least I found strength inside me again.
 
-**I think** .. that alcohol is even worse than I thought.
+**I think** .. that alcohol is even worse than assumed.
 Yesterday was good and productive.
 I bought a dry italian red wine and allowed myself two glasses.
 The taste was unfortunately just "alright" and **definetly not worth it**.
