@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journaling Morning Pages #5"
+title:  "Confidence & Opportunities - Journaling Morning Pages #5"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/morning-pages-5-2.jpg
@@ -11,9 +11,17 @@ featured: false
 hidden: false
 ---
 
-Part5
+Part five is made up of small entries that describe how Morning Pages helped me to remain confident and motivated.
+They've been lying on the workbench for almost a week and tried pressuring me to expand them into full articles.
 
-# "Writing daily" - 28.07.2020
+I hereby remind myself that **"Journaling Morning Pages"** is supposed **to track how daily writing affects my life quality**.
+It's not intended to produce wholesome articles.
+Instead, I choose to 
+- work on the craft ✔️
+- reject the curse of perfection ✔️
+- appreciate "happy accidents" ✔️
+
+# "Grasping opportunities" - 28.07.2020
 **I feel** organised and relaxed.
 The writing helped me sort out confusing thoughts and schedule my available time.
 
@@ -26,9 +34,9 @@ That was very pleasing.
 I feel satisfied and ready to get on with the next task.
 
 **I want to** appreciate and grasp daily opportunities.
-I wrote about desires like "meeting spanish speaking people"/ " finding people to talk spanish to" and "instantly talking to woman I find attractive without hesitation".
+I wrote about desires like "meeting spanish speaking people" or "instantly talking to (attractive) women I see on the street".
 And you what's funny?
-I usually find opportunities the minute I write about these resolutions.
+**I usually find opportunities the minute I write about these resolutions**.
 I had just exited the train and finished writing as I saw a couple of (cute) girls passing by.
 Guess what, they spoke Spanish.
 
@@ -36,33 +44,26 @@ Guess what, they spoke Spanish.
 **I feel** .. better and more confident than I did before the pages.
 This is prime example of the magic of writing.
 
-
+The days start was tiresome.
 I woke up deprived, blue and joyless.
-Naturally, I wrote about those feelings first.
+Having to write the Morning Pages was a huge blessing.
+It was cleansing to shake bad thoughts off on a page.
 
+As that was done, I naturally began to build myself up by acknowledging my strengths, talents and privileges.
+There is an abundance of good in ourselves and our lifes.
+Appreciating it helped me to reframe my feelings.
+I still wasn't feeling "happy", but that was alright.
+At least I had found the strength inside me again.
 
+By the way, **[happiness is a lie](https://markmanson.net/stop-trying-to-be-happy)**.
+People tend to make too big of a deal out of it.
 
-Having realised that, I began to build myself up.
-I can't stand putting myself down.
-So I build myself up again.
-
-Sometimes we have to tear ourselves down in order to better ourselves.
-I can't say that I feel "happy" right now.
-But at least I found strength inside me again.
-
-**I think** .. that alcohol is even worse than assumed.
-Yesterday was good and productive.
-I bought a dry italian red wine and allowed myself two glasses.
-The taste was unfortunately just "alright" and **definetly not worth it**.
-**Alcohol wrecks your sleep!**
-
-Our body does not get into deep REM sleep allthough we fall asleep faster.
-Our sleep is disturbed and we actually wake up most of the time.
-We just don't remember, but I know I noticed tonight.
-
-My eyes had a weird sensation of being shut long without actually sleeping.
-That sucked!
-I won't say that I'm done drinking forever, but I will definetly drink even less than I do already (once per month on average).  
+**I think** .. todays pages gave me a HUGE kick in the butt!
+I feel a overwhelming sensation of strength, power and motivation to GO FOR IT.
+And know what?
+Maybe I want to be a full time writer.
+Maybe that could be a real thing.
+I feel very inspired after reading [this interview](https://sitesmonster.com/interviews/tania-rascia-the-secret-is-just-do-a-little-bit-over-a-long-time) with [Tania Rascia](https://www.taniarascia.com/).
 
 **It took** .. only 30 minutes.
 I wrote half a page more, because I couldn't stop myself.
@@ -70,11 +71,21 @@ It was really healthy and felt good.
 
 **I want to** .. to be able to work outside and be productive while enjoying the nice summer.
 
-PS: Todays pages gave me a HUGE kick in the butt!
-I feel a overwhelming sensation of strength, power and motivation to GO FOR IT.
-For what?
-Not sure yet, but let's start with a quick session of "polish your house" and follow up by some writing.
-And know what?
-Maybe I want to be a full time writer.
-Maybe that could be a real thing.
-I feel very inspired after reading [this interview](https://sitesmonster.com/interviews/tania-rascia-the-secret-is-just-do-a-little-bit-over-a-long-time) with [Tania Rascia](https://www.taniarascia.com/).
+# "A eulogy for myself" - 30.07.2020
+**I feel** .. immensely grateful.
+My pages started out with complaints on stress and all the things I need to manage (exams are coming up).
+I felt hugely overwhelmed.
+My stream of consciousness somehow turned the last page into a eulogy for myself.
+
+I started frantically what I'm good at, stating that I am good and "worth it" in general and finished with gratefulness for that.
+
+**I think** .. the power of self love is immense and crucial part of a healthy life.
+Far too often we slip into subtle manners of self criticism.
+We expect ourselves to be the very best without consideration to which degree that's possible.
+
+**When was the last time you showed compassion for yourself?**
+I know I've been neglectful in this manner, but I am very actively changing that.
+
+**It took** .. 30 minutes aka a commute.
+
+**I want to** .. workout how to handle work, 5 exams, an upcoming master thesis, my hobbies and most importantly my sanity.
