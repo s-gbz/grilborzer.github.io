@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Confidence & Opportunities - Journaling Morning Pages #5"
+title:  "The power of writing - Journaling Morning Pages #5"
 author: sergej
 categories: [Self Development]
 image: assets/images/morning-pages/morning-pages-5-2.jpg
@@ -19,14 +19,14 @@ It's not intended to produce wholesome articles.
 Instead, I choose to 
 - work on the craft ✔️
 - reject the curse of perfection ✔️
-- appreciate "happy accidents" ✔️
+- appreciate longer posts as "happy accidents" ✔️
 
 # "Grasping opportunities" - 28.07.2020
 **I feel** organised and relaxed.
 The writing helped me sort out confusing thoughts and schedule my available time.
 
 **I think** that writing daily is an underestimated habit.
-I've heard a lot about it, but I had to experience myself in order to truly believe it.
+I've heard a lot about it, but I had to experience it myself in order to truly believe it.
 
 **It took** 30 minutes at most. 
 It was exactly as long as my commute.
@@ -34,7 +34,7 @@ That was very pleasing.
 I feel satisfied and ready to get on with the next task.
 
 **I want to** appreciate and grasp daily opportunities.
-I wrote about desires like "meeting spanish speaking people" or "instantly talking to (attractive) women I see on the street".
+I wrote about desires like "meeting Spanish speaking people" or "instantly talking to (attractive) women I see on the street".
 And you what's funny?
 **I usually find opportunities the minute I write about these resolutions**.
 I had just exited the train and finished writing as I saw a couple of (cute) girls passing by.
@@ -50,7 +50,7 @@ Having to write the Morning Pages was a huge blessing.
 It was cleansing to shake bad thoughts off on a page.
 
 As that was done, I naturally began to build myself up by acknowledging my strengths, talents and privileges.
-There is an abundance of good in ourselves and our lifes.
+There is an abundance of good in ourselves and our lives.
 Appreciating it helped me to reframe my feelings.
 I still wasn't feeling "happy", but that was alright.
 At least I had found the strength inside me again.
@@ -58,10 +58,10 @@ At least I had found the strength inside me again.
 By the way, **[happiness is a lie](https://markmanson.net/stop-trying-to-be-happy)**.
 People tend to make too big of a deal out of it.
 
-**I think** .. todays pages gave me a HUGE kick in the butt!
-I feel a overwhelming sensation of strength, power and motivation to GO FOR IT.
+**I think** .. today's pages gave me a HUGE kick in the butt!
+I feel an overwhelming sensation of strength, power and motivation to GO FOR IT.
 And know what?
-Maybe I want to be a full time writer.
+Maybe I want to be a full-time writer.
 Maybe that could be a real thing.
 I feel very inspired after reading [this interview](https://sitesmonster.com/interviews/tania-rascia-the-secret-is-just-do-a-little-bit-over-a-long-time) with [Tania Rascia](https://www.taniarascia.com/).
 
@@ -75,12 +75,12 @@ It was really healthy and felt good.
 **I feel** .. immensely grateful.
 My pages started out with complaints on stress and all the things I need to manage (exams are coming up).
 I felt hugely overwhelmed.
-My stream of consciousness somehow turned the last page into a eulogy for myself.
+My stream of consciousness then somehow turned the last page into a eulogy for myself.
 
-I started frantically what I'm good at, stating that I am good and "worth it" in general and finished with gratefulness for that.
+I started frantically scribbling that I'm good the way I am and finished with a deep sense of gratefulness (which I wrote about as well).
 
-**I think** .. the power of self love is immense and crucial part of a healthy life.
-Far too often we slip into subtle manners of self criticism.
+**I think** .. the power of self-love is immense and crucial part of a healthy life.
+Far too often we slip into subtle manners of self-criticism.
 We expect ourselves to be the very best without consideration to which degree that's possible.
 
 **When was the last time you showed compassion for yourself?**
