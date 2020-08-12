@@ -35,6 +35,7 @@ Surely.
 At least I'm keeping up with the habit.
 It might've been easier with a keyboard, but that's not the intention.
 Writing physically helps our brain process thoughts with both sides of the brain.
+Here's an unscientific simplification:
 
 Emotions are associated with the right hemisphere.
 The left hemisphere is mainly associated with logic, precision and reasoning.
