@@ -5,6 +5,6 @@ _site
 *~
 
 /portfolio/images/originals
-
+/node_modules
 
 portfolio-assets/images/thumbnails/backup/
