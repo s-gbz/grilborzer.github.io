@@ -13,31 +13,39 @@ layout: gallery
     <ol class="indicator"></ol>
 </div>
 
-<!-- // https://stackoverflow.com/a/55020528/11515036 fallback images supposedly work on safari -->
 <div id="masonryGrid">
     <div v-for="(start, index) in 19" :key="index">
         <a :href="'portfolio-assets/images/fulls/' + index + '.webp'"
-            :data-srcset="'portfolio-assets/images/fulls/' + index + '.jpg'">
-            <img class="" type="image/webp" loading="lazy" alt="Model Portrait Photography"
-                :srcset="'portfolio-assets/images/thumbnails/' + index + '.webp'"
-                :src="'portfolio-assets/images/thumbnails/' + index + '.jpg'">
+            :data-urlset="'portfolio-assets/images/fulls/' + index + '.jpg'">
+
+            <picture @click="setCurrentIndex(index)">
+                <source loading="lazy" :srcset="'portfolio-assets/images/thumbnails/' + index + '.webp'"
+                    type="image/webp">
+                <img class="" loading="lazy" alt="Model Portrait Photography"
+                    :src="'portfolio-assets/images/thumbnails/' + index + '.jpg'" type="image/jpg">
+            </picture>
         </a>
     </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script>
-    const vueInstance = new Vue({
-        delimiters: ["((", "))"],
-        el: '#masonryGrid'
-    });
-</script>
-
 <script src="portfolio-assets/macy.js"></script>
 <link rel="stylesheet" href="portfolio-assets/dependencies/blueimp-gallery.min.css" />
 <script src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
 
 <script>
+    let currentIndex = 0;
+
+    const vueInstance = new Vue({
+        delimiters: ["((", "))"],
+        el: '#masonryGrid',
+        methods: {
+            setCurrentIndex(index) {
+                currentIndex = index;
+            }
+        }
+    });
+
     const macyInstance = Macy({
         container: '#masonryGrid',
         margin: 24,
@@ -52,27 +60,22 @@ layout: gallery
     // runs everytime a pictures is loaded
     macyInstance.runOnImageLoad(function () {
         macyInstance.recalculate(true, true);
-
     });
-
-// runs once all pictures are loaded
-    macyInstance.runOnImageLoad(function () {
-        macyInstance.recalculate(true, true);
-
-    }, true);
 
     document.getElementById('masonryGrid').onclick = function (event) {
         event = event || window.event
+        console.log(event)
         var target = event.target || event.srcElement
         var link = target.src ? target.parentNode : target
+
+        // event -> target -> previousElement betrachten
+
         var options = {
-            index: link, event: event, preloadRange: 1, indicatorOptions: {
-                thumbnailIndicators: false
-            }
+            index: currentIndex, event: event, preloadRange: 0
         }
         var links = this.getElementsByTagName('a')
-
         console.log(target);
         blueimp.Gallery(links, options)
     }
+
 </script>
