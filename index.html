@@ -14,15 +14,14 @@ layout: gallery
 </div>
 
 <div id="masonryGrid">
-    <div v-for="(start, index) in 19" :key="index">
-        <a :href="'portfolio-assets/images/fulls/' + index + '.webp'"
-            :data-urlset="'portfolio-assets/images/fulls/' + index + '.jpg'">
+    <div v-for="(start, index) in numberOfPhotos" :key="index">
+        <a :href="basePathFulls + index + '.webp'">
 
             <picture @click="setCurrentIndex(index)">
-                <source loading="lazy" :srcset="'portfolio-assets/images/thumbnails/' + index + '.webp'"
+                <source loading="lazy" :srcset="basePathThumbnails + index + '.webp'"
                     type="image/webp">
-                <img class="" loading="lazy" alt="Model Portrait Photography"
-                    :src="'portfolio-assets/images/thumbnails/' + index + '.jpg'" type="image/jpg">
+                <img loading="lazy" alt="Model Portrait Photography"
+                    :src="basePathThumbnails + index + '.jpg'" type="image/jpg">
             </picture>
         </a>
     </div>
@@ -35,10 +34,19 @@ layout: gallery
 
 <script>
     let currentIndex = 0;
+    const numberOfPhotos = 20;
+    const basePathThumbnails = "portfolio-assets/images/thumbnails/";
+    const basePathFulls = "portfolio-assets/images/fulls/";
+    const masonryContainer = "#masonryGrid";
 
     const vueInstance = new Vue({
         delimiters: ["((", "))"],
-        el: '#masonryGrid',
+        el: masonryContainer,
+        data: {
+            numberOfPhotos: numberOfPhotos,
+            basePathThumbnails: basePathThumbnails,
+            basePathFulls: basePathFulls
+        },
         methods: {
             setCurrentIndex(index) {
                 currentIndex = index;
@@ -47,7 +55,7 @@ layout: gallery
     });
 
     const macyInstance = Macy({
-        container: '#masonryGrid',
+        container: masonryContainer,
         margin: 24,
         columns: 3,
         breakAt: {
@@ -62,20 +70,31 @@ layout: gallery
         macyInstance.recalculate(true, true);
     });
 
+
     document.getElementById('masonryGrid').onclick = function (event) {
-        event = event || window.event
-        console.log(event)
-        var target = event.target || event.srcElement
-        var link = target.src ? target.parentNode : target
-
-        // event -> target -> previousElement betrachten
-
-        var options = {
+        event = event || window.event;
+        const target = event.target || event.srcElement;
+        const options = {
             index: currentIndex, event: event, preloadRange: 0
-        }
-        var links = this.getElementsByTagName('a')
-        console.log(target);
-        blueimp.Gallery(links, options)
+        };
+        const links = useWebpImagesInGalleryIfSupported(target);
+
+        blueimp.Gallery(links, options);
     }
 
+    function useWebpImagesInGalleryIfSupported(target) {
+        let links = [];
+
+        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            for (let i = 0; i < numberOfPhotos; i++) {
+                links.push(basePathFulls + i + ".jpg");
+            }
+        } else {
+            for (let i = 0; i < numberOfPhotos; i++) {
+                links.push(basePathFulls + i + ".webp");
+            }
+        }
+
+        return links;
+    }
 </script>
