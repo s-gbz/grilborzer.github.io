@@ -4,6 +4,12 @@ comments: false
 layout: gallery
 ---
 
+<noscript>
+    <h2 style="color: red; margin-top: 40px; position: relative; text-align: center; text-shadow: 1px 1px #fafafa;">
+        <b><i>Please enable JavaScript to display the gallery.</i></b>
+    </h2>
+</noscript>
+
 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
     <div class="slides"></div>
     <h3 class="title"></h3>
@@ -91,7 +97,7 @@ layout: gallery
             }
         } else {
             for (let i = 0; i < numberOfPhotos; i++) {
-                links.push({ href: basePathFulls + i + ".webp", thumbnail: basePathTinyThumbnails + i + ".gif"});
+                links.push({ href: basePathFulls + i + ".webp", thumbnail: basePathTinyThumbnails + i + ".gif" });
             }
         }
 
