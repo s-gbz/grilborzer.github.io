@@ -18,10 +18,9 @@ layout: gallery
         <a :href="basePathFulls + index + '.webp'">
 
             <picture @click="setCurrentIndex(index)">
-                <source loading="lazy" :srcset="basePathThumbnails + index + '.webp'"
-                    type="image/webp">
-                <img loading="lazy" alt="Model Portrait Photography"
-                    :src="basePathThumbnails + index + '.jpg'" type="image/jpg">
+                <source loading="lazy" :srcset="basePathThumbnails + index + '.webp'" type="image/webp">
+                <img loading="lazy" alt="Model Portrait Photography" :src="basePathThumbnails + index + '.jpg'"
+                    type="image/jpg">
             </picture>
         </a>
     </div>
@@ -36,6 +35,7 @@ layout: gallery
     let currentIndex = 0;
     const numberOfPhotos = 20;
     const basePathThumbnails = "portfolio-assets/images/thumbnails/";
+    const basePathTinyThumbnails = "portfolio-assets/images/tiny-thumbnails/";
     const basePathFulls = "portfolio-assets/images/fulls/";
     const masonryContainer = "#masonryGrid";
 
@@ -87,11 +87,11 @@ layout: gallery
 
         if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
             for (let i = 0; i < numberOfPhotos; i++) {
-                links.push(basePathFulls + i + ".jpg");
+                links.push({ href: basePathFulls + i + ".jpg", thumbnail: basePathTinyThumbnails + i + ".gif" });
             }
         } else {
             for (let i = 0; i < numberOfPhotos; i++) {
-                links.push(basePathFulls + i + ".webp");
+                links.push({ href: basePathFulls + i + ".webp", thumbnail: basePathTinyThumbnails + i + ".gif"});
             }
         }
 
