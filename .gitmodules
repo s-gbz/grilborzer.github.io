@@ -1,0 +1,3 @@
+[submodule "portfolio-assets/portfolio-photos"]
+	path = portfolio-assets/portfolio-photos
+	url = https://github.com/s-gbz/portfolio-photos
