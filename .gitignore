@@ -4,7 +4,5 @@ _site
 .sass-cache
 *~
 
-/portfolio/images/originals
+/portfolio-assets/portfolio-photos
 /node_modules
-
-portfolio-assets/images/thumbnails/backup/
