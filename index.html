@@ -61,6 +61,7 @@ layout: gallery
 
     const macyInstance = Macy({
         container: masonryContainer,
+        mobileFirst: true,
         margin: 24,
         columns: 4,
         breakAt: {
@@ -73,7 +74,7 @@ layout: gallery
     // runs everytime a pictures is loaded
     macyInstance.runOnImageLoad(function () {
         macyInstance.recalculate(true, true);
-    });
+    }, true);
 
 
     document.getElementById('masonryGrid').onclick = function (event) {
