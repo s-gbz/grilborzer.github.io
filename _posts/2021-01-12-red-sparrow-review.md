@@ -21,36 +21,36 @@ Red Sparrow thrives on its photography.
 I won't pretend to distinguish between "all the emotions" that are supposed to be conveyed via the choice of shots,
 however, I can testify that I was sold 5 minutes into the action.
 We have ultra wide angles not only to establish, but also shoot whole scenes. 
-![Red Sparrow Motorbike shot angle](/assets/images/red-sparrow/circle.jpg)
+![Red Sparrow wide shot](/assets/images/red-sparrow/red-sparrow-academy.jpg)
 
 Our protagonist Dominika can read people like books (that's what they say at least).
 Maybe it's a way to share her "widened view" with us, the audience - I loved it.
-![Red Sparrow Jennifer Larence as Dominika](/assets/images/red-sparrow/5.png)
+![Red Sparrow Jennifer Larence as Dominika](/assets/images/red-sparrow/red-sparrow-dominika.jpg)
 
 ## A selection of shots
 Other than that we see a variety of interesting angles.
 Most notably for me was the bike scene.
 There's not much need for eloquence here: It was just rad to watch! 
-![Red Sparrow Motorbike shot angle](/assets/images/red-sparrow/red-sparrow-motor-bike-scene.png)
+![Red Sparrow Motorbike shot angle](/assets/images/red-sparrow/red-sparrow-motor-bike-scene.jpg)
 
 Upon consciously reflecting and looking for memorable scenes I figured a few more:
 
-Our first introduction to Dominika (Jennifer Lawrence) was very intimate.
+(One of) Our first introduction to Dominika (Jennifer Lawrence) was very intimate.
 We got very close and stayed for an extended amount of time*.
 It created a fitting contrast to the quick action cuts.
-![Red Sparrow hospital scene shot, Jennifer Lawrence](/assets/images/red-sparrow/red-sparrow-hospital-wake-up-jennifer-lawrence.png)
+![Red Sparrow hospital scene shot, Jennifer Lawrence](/assets/images/red-sparrow/red-sparrow-hospital-wake-up-jennifer-lawrence.jpg)
 
 *There's actually a number of extended shots and they're mainly to display violence a tad more graphic. 
 We'll get to that, but here's a taste of what's to come:
 
 The "shower scene" was intense and took us right into it 
-![Red Sparrow shower, torture scene angle](/assets/images/red-sparrow/8.png)
+![Red Sparrow shower, torture scene angle](/assets/images/red-sparrow/red-sparrow-shower.jpg)
 
 The first ballet scene was a key selling point for me.
 It's the exact moment that made a promising film.
 Cinematography alone is not what made it great though - let's not forget our good friend _The Cutter_! 
 
-![Red Sparrow ballet scene angle](/assets/images/red-sparrow/3.png)
+![Red Sparrow ballet scene angle](/assets/images/red-sparrow/red-sparrow-ballet-theater.jpg)
 
 # Cross Cuts create exciting edits
 The movie is well put together.
@@ -58,7 +58,7 @@ It makes effective use of necessary contrasts.
 The ballet show is our *kick-off into the plot* and is made off cross cuts between the theater and "a casual" walk in the park
 (it's not that casual if you catch my drift).
 Other than that, I should probably mention that the film is graphic.
-![Red Sparrow Cross Cut between ballet show and Gorky Park](/assets/images/red-sparrow/1.png)
+![Red Sparrow Cross Cut between ballet show and Gorky Park](/assets/images/red-sparrow/red-sparrow-gorky-park.jpg)
 
 ## Violence and sexuality
 There's no spoiler to say that things get pretty messy for Dominika.
@@ -97,7 +97,7 @@ Not all of them are great* and we do meet *quite a few*, but their actions feel 
 Most of them don't act unreasonable.
 **We know little of their thinking and just enough about their personality**.
 *Of course there's a purely evil, barbaric henchman.
-![Red Sparrow Character cast](/assets/images/red-sparrow/red-sparrow-henchman-matorin.png)
+![Red Sparrow Character cast](/assets/images/red-sparrow/red-sparrow-henchman-matorin.jpg)
 
 ## A bit too obvious
 I've had a couple tiny eyerolls, because a handful of conversations felt to obvious. 
@@ -105,13 +105,13 @@ The protagonists relationship to her mother was a prime example:
 "Oh mom, you single raised me and you're ill, but I love you and I will do *anything* for you" pretty much sums up the dialogs they had for me.
 I get that it's the single major motivation for Dominika, but I wish it felt a little less posed to me.
 
-![Red Sparrow Dominika and her mother](/assets/images/red-sparrow/7.png)
+![Red Sparrow Dominika and her mother](/assets/images/red-sparrow/red-sparrow-dominika-mother.jpg)
 
 Other instances of eyerolling were caused by an assortment of uncatchy clichés.
 There's the evil henchman, the runway CIA agents and the cold-blooded military types.
 To me, falling back to tropes is not even the deal here since we do have interesting characters like Dominika or her shady uncle Vanya
 (who shares extraordinary similarities to Vladimir Putin!!).
-![Red Sparrow Vlad Egorov and Vladimir Putin](/assets/images/red-sparrow/vlad-egorov-vladimir-putin.png)
+![Red Sparrow Vanya Egorov and Vladimir Putin](/assets/images/red-sparrow/vanya-egorov-vladimir-putin.jpg)
 
 It's just that a few of their interactions were too uninspired to be allowed to be taken serious.
 
