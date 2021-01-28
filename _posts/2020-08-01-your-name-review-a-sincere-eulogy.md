@@ -22,19 +22,9 @@ Do people feel like this about their spouse?
 
 Please enjoy this <s>review</s> [eulogy](https://www.merriam-webster.com/dictionary/eulogy) after watching it yourself - **spoilers ahead**!
 
-# Side note: Doing > Perfecting
-tl;dr: It's not perfect and there's no plot summary.
-
-This post was waiting **almost 5 months** to be published though being **95% finished from the start**.
-Expectations to polish it, add a plot summary and "make it perfect" delayed the release until I stopped writing at all.
-This was unfortunate, but a valuable, timeless lesson - "**Perfection is the curse of all action**" - and 
-"**Don't waste your time with things you don't want to do**".
-
-The later statement might seem obvious, but it's sneaky and can disguise itself as "planning ahead".
-"Planning ahead" and laying out a list of "things to do" does not guaranty you will do those things. 
-It might feel good and rational, but it might as well pressure you with a long list of semi-desired activities. 
-Turns out I actually don't care to summarize the plot in this case (and it's fine because I'm writing for fun).
-No need to do the things you think you want to do, but actually don't want to do.
+---
+tl;dr: This article is imperfect and it's ok.
+Also, there's no plot summary (read [site note](#side-note-doing--perfecting) bellow).
 
 # Immersion
 The pacing was PERFECT.
@@ -129,3 +119,15 @@ There have been a couple instances that went towards the general direction of ca
 Also: I'm happy to have had the opportunity experiencing this movie alone and purely for myself.
 It's really hard to tell how it would've been with other people.
 I can imagine that it would require a certain intimacy to open up and truly take in the full experience.
+
+# Side note: Doing > Perfecting
+This post was waiting **almost 5 months** to be published though being **95% finished from the start**.
+Expectations to polish it, add a plot summary and "make it perfect" delayed the release until I stopped writing at all.
+This was unfortunate, but served at least two valuable, timeless lessons
+- **Perfection is the curse of all action** 
+- **Don't waste your time with things you don't want to do**
+
+Turns out I wasn't passionate about summarizing plot.
+I was passionate about the movie and what I had to say about it - so I wrote about it.
+
+When in doubt, do what feels right, do what comes naturally.
