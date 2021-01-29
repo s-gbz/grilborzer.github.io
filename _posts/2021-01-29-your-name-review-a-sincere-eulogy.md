@@ -62,12 +62,16 @@ I surely can.
 And it would hurt.
 It would hurt really good.
 But being curled up into the ridiculously soft pillows of my absent roommate is sad enough.
-I was begging for a happy end.
+
+<a target="_blank" href="https://9gag.com/gag/av7OvNW">
+![Your Name try not to cry meme](/assets/images/your-name-try-not-to-cry.jpg)
+</a>
 
 And then it happened!
 They almost saw each other at their bridge.
 But they didn't and time was running short.
-Have you been part of a catastrophe and tried to influence something you had absolutely no influence over?
+
+Have you ever been part of a catastrophe and tried to influence something you had absolutely no influence over?
 I was BEGGING for a happy end.
 Praying the screen wouldn't just fade out and the credits start rolling.
 Anxiousness, desperation and a glimmer of hope were all I had left in me.
@@ -77,6 +81,8 @@ And then it happened!
 They definitely saw each other in passing trains.
 Of course, you would expect them to run towards each other and naturally miss themselves.
 My relief was beyond words when they actually did and the boy spoke up after walking by her and almost letting her go forever.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jkWViZk1u40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [X] Restoring faith into good endings, love and the whole world in general.
 
@@ -89,13 +95,18 @@ It's the grateful who are happy."
 **Namaste.**
 
 # Stunning visuals
-Furthermore:
+Since you're still here:
 The visuals are not only STUNNING, but also used to convey emotions.
 I felt myself swelling up as the boy got lost in the comet.
+
+![Your Name cave meteorite comet scene fall](/assets/images/your-name-cave-scene-fall.jpg)
+
 It's been a perfect representation of falling, melancholy and its gorgeous beauty.
 Right in front of you, right inside you, but distant and too hard to grasp.
 Like the distant memory of a mothers touch.
 Probably like the sensation the protagonists felt their entire life.
+
+![Your Name Cave meteorite comet scene fall](/assets/images/your-name-cave-scene-fall-2.jpg)
 
 The soundtrack couldn't possibility be more fitting.
 Upbeat, melancholic yet hopeful, but uncertain at the same time.
