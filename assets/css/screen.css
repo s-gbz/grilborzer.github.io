@@ -909,3 +909,7 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+#summary-section {
+	font-size: 1rem;
+}
