@@ -6,9 +6,10 @@ categories: [Movie Review]
 image: assets/images/your-name.jpg
 image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt5311514/mediaviewer/rm3216783616' target='_blank'>IMDb</a>"
 toc: true
+rating: 5
 comments: false
-featured: false
-hidden: false
+featured: true
+hidden: true
 ---
 
 **"Your Name" is one of the most memorable movies that I've seen in years**.

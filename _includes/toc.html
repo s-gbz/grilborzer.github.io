@@ -1,3 +1,4 @@
+<div id=summary-section>
 {% capture tocWorkspace %}
     {% comment %}
         Version 1.0.6
@@ -85,3 +86,4 @@
 {{ my_toc | lstrip }}{% endcapture %}
     {% endif %}
 {% endcapture %}{% assign tocWorkspace = '' %}{{ my_toc | markdownify | strip }}
+</div>

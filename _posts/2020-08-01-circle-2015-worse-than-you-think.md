@@ -6,6 +6,7 @@ categories: [Movie Review]
 image: assets/images/circle.jpg
 image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt3118452/mediaviewer/rm1797452544' target='_blank'>IMDb</a>"
 toc: true
+rating: 1
 comments: false
 featured: false
 hidden: false
