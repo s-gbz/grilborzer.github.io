@@ -15,11 +15,11 @@ hidden: false
 Is this movie receiving praise like Donnie Darko, Fight Club and Shutter Island?
 If not, it better be - quickly!
 
-# Terryfing, fear inducing
+# Terrifying, fear inducing
 Black Swan had me sweating, (softly) screaming and sinking into the seat.
 Our protagonist Nina is shy, fragile and a quiet, yet ambitious dancer on a noisy stage.
 Watching her interact with loud, powerful and uncalculatable characters is uncomfortable at its own.
-Add a shaky, hand captured camera movement and receive a crawling paraonia in each of Ninas interactions ("no don't go there you'll get hurt!").
+Add a shaky, hand captured camera movement and receive a crawling paranoia in each of Ninas interactions ("no don't go there you'll get hurt!").
 Include unreliable narrative, quick cuts, some CGI and experience terror that is rather unexpected from a "Drama, Thriller".
 Part of the editing is reminiscent of director Darren Aronofsky previous work "Requiem for a Dream". 
 
@@ -27,10 +27,10 @@ To put plain, Black Swan had me like **"OMG WHAT IS HAPPENING, PLEASE STOP"**.
 It was a shocking, frightening, simply physical experience - "Viewer discretion advised".
 
 # Can you trust anyone?
-Ladys first:
+Ladies first:
 Nina has a strained relation with her **mother** Erica (Barbara Hershey).
 I found myself putting a label on her just to replace it the next time.
-"Manipulative, carring, obsessed, supportive" - who's to tell?
+"Manipulative, caring, obsessed, supportive" - who's to tell?
 Humans are complex and so was she.
 
 ![Black Swan Barbara Hershey as mother Erica Sayers](/assets/images/black-swan-mother.jpg)
