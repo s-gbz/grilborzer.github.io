@@ -28,29 +28,29 @@ It was a shocking, frightening, simply physical experience - "Viewer discretion 
 
 # Can you trust anyone?
 Ladys first:
-Nina has a strained relation with her mother Erica (Barbara Hershey).
+Nina has a strained relation with her **mother** Erica (Barbara Hershey).
 I found myself putting a label on her just to replace it the next time.
 "Manipulative, carring, obsessed, supportive" - who's to tell?
 Humans are complex and so was she.
 
-![Black Swan Barbara Hershey as mother Erica Sayers](/assets/images/black-swan.jpg)
+![Black Swan Barbara Hershey as mother Erica Sayers](/assets/images/black-swan-mother.jpg)
 
-Lily (portrayed by Mila Kunis) was scary.
+**Lily** (portrayed by Mila Kunis) was scary.
 What's her goal?
 Is she helping?
 Can we trust her?
 Many questions with few answers - just as we like it!
 
-![Black Swan Mila Kunis as Lily](/assets/images/black-swan.jpg)
+![Black Swan Mila Kunis as Lily](/assets/images/black-swan-lily.jpg)
 
-At least Ninas boss Thomas (Vincent Cassal) didn't leave me panicking.
+At least Ninas boss **Thomas** (Vincent Cassal) didn't leave me panicking.
 He's on a fine line between inspiration and abuse, but he does balance well.
 
-![Black Swan Vincent Cassal as Thomas Leroy](/assets/images/black-swan.jpg)
+![Black Swan Vincent Cassal as Thomas Leroy](/assets/images/black-swan-thomas.jpg)
 
-Fun fact: I was pleased to find out that Heathers star Winona Ryder is on board!
+Fun fact: I was pleased to find out that Heathers star **Winona Ryder** is on board!
 
-![Black Swan Vincent Cassal as Thomas Leroy](/assets/images/black-swan.jpg)
+![Black Swan Vincent Cassal as Thomas Leroy](/assets/images/black-swan-winona-ryder.jpg)
 
 # Conclusion
 I can't remember the last time a movie took me one a ride such as Black Swan did (actually I do, it was [The Lodge](/blog/the-lodge-review/)).
