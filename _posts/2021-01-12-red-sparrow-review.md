@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Red Sparrow (no spoilers!)"
+title:  "Review: Red Sparrow (2018) - no spoilers!"
 author: sergej
 categories: [Movie Review]
 image: assets/images/red-sparrow.jpg

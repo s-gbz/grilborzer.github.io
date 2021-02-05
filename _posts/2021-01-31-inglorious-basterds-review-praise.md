@@ -3,8 +3,8 @@ layout: post
 title:  "Inglourious Basterds (2009) - Review/ Praise"
 author: sergej
 categories: [Movie Review]
-image: assets/images/your-name.jpg
-image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt5311514/mediaviewer/rm3216783616' target='_blank'>IMDb</a>"
+image: assets/images/inglourious-basterds.jpg
+image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt0361748/mediaviewer/rm3163035648' target='_blank'>IMDb</a>"
 toc: true
 rating: 5
 comments: false

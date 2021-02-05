@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Lodge - A discussion of modern horror (Spoilers!)"
+title:  "The Lodge - A discussion of modern horror (2020) - Spoilers!"
 author: sergej
 categories: [Movie Review]
 image: assets/images/the-lodge-smaller.jpg

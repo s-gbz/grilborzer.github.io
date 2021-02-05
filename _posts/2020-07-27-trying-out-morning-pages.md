@@ -7,8 +7,8 @@ image: assets/images/morning-pages/trying-out-morning-pages.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/photos/CKlHKtCJZKk' target='_blank'>Aaron Burden</a>"
 toc: true
 comments: false
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 I recently learned about "Morning Pages".
