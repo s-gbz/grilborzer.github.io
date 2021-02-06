@@ -21,7 +21,16 @@ html body ul li input.task-list-item-checkbox {
     #post-container {
         max-width:100%;
     }
+
+    #comments h2 {
+        max-width: 80%;
+    }
 }
+
+.utterances {
+    max-width: 80%;
+}
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -422,10 +431,6 @@ blockquote {
         margin-top: 20px;
         box-shadow: none !Important;
         padding-right: 14px !Important;
-    }
-
-    #comments {
-        margin-right: 15px;
     }
 
     .jumbotron.fortags {
@@ -857,6 +862,10 @@ iframe {
 @media (max-width: 768px) {
     .share {
         margin-top: 30px;
+    }
+
+    .utterances {
+        max-width: 100%;
     }
 }
 

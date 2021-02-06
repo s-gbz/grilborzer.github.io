@@ -6,7 +6,7 @@ categories: [Self Development]
 image: assets/images/morning-pages/trying-out-morning-pages.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/photos/CKlHKtCJZKk' target='_blank'>Aaron Burden</a>"
 toc: true
-comments: false
+comments: true
 featured: false
 hidden: false
 ---

@@ -7,7 +7,7 @@ image: assets/images/black-swan.jpg
 image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt0947798/mediaviewer/rm4002317312' target='_blank'>IMDb</a>"
 toc: true
 rating: 5
-comments: false
+comments: true
 featured: false
 hidden: false
 ---

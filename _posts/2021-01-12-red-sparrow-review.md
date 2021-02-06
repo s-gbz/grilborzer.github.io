@@ -7,7 +7,7 @@ image: assets/images/red-sparrow.jpg
 image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt2873282/mediaviewer/rm1560564224/' target='_blank'>IMDb</a>"
 toc: true
 rating: 3
-comments: false
+comments: true
 featured: false
 hidden: false
 ---

@@ -7,7 +7,7 @@ image: assets/images/the-lodge-smaller.jpg
 image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt7347846/mediaviewer/rm2084996865' target='_blank'>IMDb</a>"
 toc: true
 rating: 4
-comments: false
+comments: true
 featured: true
 hidden: true
 ---

@@ -6,7 +6,7 @@ categories: [Self Development]
 image: assets/images/morning-pages/morning-pages-6.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/photos/2_l3lUpn4vE' target='_blank'>Behnam Norouzi</a>"
 toc: true
-comments: false
+comments: true
 featured: false
 hidden: false
 ---

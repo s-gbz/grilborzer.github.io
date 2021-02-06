@@ -6,7 +6,7 @@ categories: [Self Development]
 image: assets/images/morning-pages/morning-pages-5-2.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/photos/bH7kZ0yazB0' target='_blank'>Ian Stauffer</a>"
 toc: true
-comments: false
+comments: true
 featured: false
 hidden: false
 ---

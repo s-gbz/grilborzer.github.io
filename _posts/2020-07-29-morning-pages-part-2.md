@@ -6,7 +6,7 @@ categories: [Self Development]
 image: assets/images/morning-pages/journaling-morning-pages-2.jpg
 image_caption: "Photo Credit: <a href='https://unsplash.com/photos/CxYHfBkC0vs' target='_blank'>Calum MacAulay</a>"
 toc: true
-comments: false
+comments: true
 featured: false
 hidden: false
 ---
