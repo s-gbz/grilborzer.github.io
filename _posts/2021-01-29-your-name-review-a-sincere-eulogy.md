@@ -64,9 +64,12 @@ And it would hurt.
 It would hurt really good.
 But being curled up into the ridiculously soft pillows of my absent roommate is sad enough.
 
+
+{:refdef: style="text-align: center;"}
 <a target="_blank" href="https://9gag.com/gag/av7OvNW">
 ![Your Name try not to cry meme](/assets/images/your-name-try-not-to-cry.jpg)
 </a>
+{: refdef}
 
 And then it happened!
 They almost saw each other at their bridge.
@@ -83,7 +86,7 @@ They definitely saw each other in passing trains.
 Of course, you would expect them to run towards each other and naturally miss themselves.
 My relief was beyond words when they actually did and the boy spoke up after walking by her and almost letting her go forever.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jkWViZk1u40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/jkWViZk1u40" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [X] Restoring faith into good endings, love and the whole world in general.
 
@@ -100,14 +103,18 @@ Since you're still here:
 The visuals are not only STUNNING, but also used to convey emotions.
 I felt myself swelling up as the boy got lost in the comet.
 
+{:refdef: style="text-align: center;"}
 ![Your Name cave meteorite comet scene fall](/assets/images/your-name-cave-scene-fall.jpg)
+{: refdef}
 
 It's been a perfect representation of falling, melancholy and its gorgeous beauty.
 Right in front of you, right inside you, but distant and too hard to grasp.
 Like the distant memory of a mothers touch.
 Probably like the sensation the protagonists felt their entire life.
 
+{:refdef: style="text-align: center;"}
 ![Your Name Cave meteorite comet scene fall](/assets/images/your-name-cave-scene-fall-2.jpg)
+{: refdef}
 
 The soundtrack couldn't possibility be more fitting.
 Upbeat, melancholic yet hopeful, but uncertain at the same time.

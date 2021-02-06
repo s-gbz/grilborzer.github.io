@@ -26,6 +26,11 @@ html body ul li input.task-list-item-checkbox {
         /* Unsure if this is necessary! */
         max-width: 100%;
     }
+
+    .article-post iframe {
+        width: 100%;
+        height: 400px;
+    }
 }
 
 .utterances {
@@ -740,6 +745,27 @@ h6 {
 
 .layout-page .article-post p {
     margin-bottom: 1rem;
+}
+
+@media screen and (min-width:768px) and (max-width:1499px) {
+    .article-post iframe {
+        width: 100%;
+        height: 350px;
+    }
+}
+
+@media screen and (min-width:513px) and (max-width:786px) {
+    .article-post iframe {
+        width: 100%;
+        height: 300px;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:512px) {
+    .article-post iframe {
+        width: 100%;
+        height: 200px;
+    }
 }
 
 img {
