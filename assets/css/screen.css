@@ -23,12 +23,14 @@ html body ul li input.task-list-item-checkbox {
     }
 
     #comments h2 {
-        max-width: 80%;
+        /* Unsure if this is necessary! */
+        max-width: 100%;
     }
 }
 
 .utterances {
-    max-width: 80%;
+    /* Unsure if this is necessary! */
+    max-width: 100%;
 }
 
 .mainheading {
