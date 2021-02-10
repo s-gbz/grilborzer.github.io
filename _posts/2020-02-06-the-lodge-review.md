@@ -167,9 +167,6 @@ It not only assumes, but finally acknowledges you the viewer to be smart.
 Don't forget to take my word with a grain of salt and keep in mind that I [haven't touched upon everything yet](#further-notes-pacing).
 Thank you to the cast and crew for making this movie happen - This is what horror should be like!
 
-PS: A great applause to the team of [Joker](/blog/joker-review) and Joaquin Phoenix for claiming its well-deserved Oscar <3!
-Same goes for Brad Pitt in [Once Upon A Time.. In Hollywood](/blog/once-upon-a-time-review).
-
 ## Further notes: Pacing 
 I really enjoyed the pacing and structure of the movie.
 Our point of view is determined by the characters we follow and implies different perceptions as well as information available.
