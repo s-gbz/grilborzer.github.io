@@ -3,16 +3,16 @@ layout: post
 title:  "Developing my own themes"
 author: sergej
 categories: [Software Engineering]
-image: assets/images/black-swan.jpg
-image_caption: "Photo Credit: <a href='https://www.imdb.com/title/tt0947798/mediaviewer/rm4002317312' target='_blank'>IMDb</a>"
-toc: true
+image: assets/images/building-own-theme.jpg
+image_caption: "Photo by <a href='https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Alice Dietrich</a> on <a href='https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+toc: false
 comments: true
 featured: false
 hidden: false
 ---
 
 
-Lesson of the year:
+Lesson of the week:
 If you can, do code your own theme.
 
 I've been trying to tune my site lately.
