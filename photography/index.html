@@ -4,6 +4,28 @@ layout: default
 comments: false
 ---
 
+<link rel="stylesheet" href="/assets/css/scroll-to-top.css">
+
+<script>
+    $(document).ready(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 100) {
+                $('#toTopBtn').css("visibility", "visible");
+                $('#toTopBtn').fadeIn(0);
+            } else {
+                $('#toTopBtn').fadeOut(0);
+            }
+        });
+    
+        $('#toTopBtn').click(function() {
+            $("html, body").animate({
+                scrollTop: 0
+            }, 300);
+            return false;
+        });
+    });
+</script>
+
 <noscript>
     <h2 style="color: red; margin-top: 40px; position: relative; text-align: center; text-shadow: 1px 1px #fafafa;">
         <b><i>Please enable JavaScript to display the gallery.</i></b>
@@ -17,6 +39,8 @@ comments: false
     <a class="next">›</a>
     <a class="close">×</a>
 </div>
+
+<a href="#" id="toTopBtn" class="cd-top js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
 
 <div id="masonryGrid">
     <div v-for="(start, index) in numberOfPhotos" :key="index">
@@ -104,3 +128,4 @@ comments: false
         return links;
     }
 </script>
+
