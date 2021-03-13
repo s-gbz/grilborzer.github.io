@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Photography
 comments: false
 layout: gallery
 ---
@@ -31,17 +31,17 @@ layout: gallery
     </div>
 </div>
 
-<script src="portfolio-assets/vue.min.js"></script>
-<script src="portfolio-assets/macy.js"></script>
-<link rel="stylesheet" href="portfolio-assets/dependencies/blueimp-gallery.min.css" />
-<script src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
+<script src="{{site.baseurl}}/portfolio-assets/vue.min.js"></script>
+<script src="{{site.baseurl}}/portfolio-assets/macy.js"></script>
+<link rel="stylesheet" href="{{site.baseurl}}/portfolio-assets/dependencies/blueimp-gallery.min.css" />
+<script src="{{site.baseurl}}/portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
 
 <script>
     let currentIndex = 0;
     const numberOfPhotos = 46;
-    const basePathThumbnails = "portfolio-assets/portfolio-photos/thumbnails/";
-    const basePathTinyThumbnails = "portfolio-assets/portfolio-photos/tiny-thumbnails/";
-    const basePathFulls = "portfolio-assets/portfolio-photos/fulls/";
+    const basePathThumbnails = "{{site.baseurl}}/portfolio-assets/portfolio-photos/thumbnails/";
+    const basePathTinyThumbnails = "{{site.baseurl}}/portfolio-assets/portfolio-photos/tiny-thumbnails/";
+    const basePathFulls = "{{site.baseurl}}/portfolio-assets/portfolio-photos/fulls/";
     const masonryContainer = "#masonryGrid";
 
     const vueInstance = new Vue({

@@ -18,10 +18,13 @@
         <div class="collapse navbar-collapse" id="navbarMediumish">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item {% if page.url == '/' %} active {% endif %}">
-                    <a class="nav-link" href="/">Portfolio</a>
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item {% if page.url contains 'blog' or page.url contains 'categories' %} active {% endif %}">
                     <a class="nav-link" href="/blog">Blog</a>
+                </li>
+                <li class="nav-item {% if page.url contains 'blog' or page.url contains 'categories' %} active {% endif %}">
+                    <a class="nav-link" href="/photography">Photography</a>
                 </li>
                 {% include search-lunr.html %}
             </ul>
