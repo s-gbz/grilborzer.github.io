@@ -2,8 +2,12 @@
 layout: default
 ---
 
+
 <div id="post-container" class="container">
     <div class="row">
+
+        <!-- Back to top button -->
+        <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
 
         <div class="col-md-2 pl-0">
         </div>
@@ -11,6 +15,22 @@ layout: default
         {% assign author = site.authors[page.author] %}
 
         <div class="col-md-8 flex-first flex-md-unordered">
+            
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="/blog" class="text-center">Blog</a></li>
+                  <li class="breadcrumb-item active" aria-current="page"
+                  style=" 
+                          max-width: 600px;
+                          white-space: nowrap;
+                          overflow: hidden;
+                          text-overflow: ellipsis;
+                          display: inline;
+                  "
+                  >{{ page.title }}</li>
+                </ol>
+              </nav>
+
             <div class="mainheading">
 
                 {% if page.author %}
@@ -154,6 +174,9 @@ layout: default
     </div>
 </div>
 {% endif %}
+
+<link rel="stylesheet" href="/assets/css/scroll-to-top.css">
+<link rel="text/javascript" href="/assets/js/scroll-to-top.js">
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
