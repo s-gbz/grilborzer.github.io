@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The power of writing - Journaling Morning Pages #5"
 author: sergej
 categories: [Self Development]

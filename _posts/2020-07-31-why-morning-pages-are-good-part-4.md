@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Why Morning Pages are good - Journaling Morning Pages #4"
 author: sergej
 categories: [Self Development]

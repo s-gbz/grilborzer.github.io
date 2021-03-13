@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Review: Once Upon A Time.. In Hollywood"
 author: sergej
 categories: [Movie Review]

@@ -2,7 +2,7 @@
 title: Privacy Policy
 modified: 2019-12-25
 comments: false
-layout: page
+layout: page-with-title
 ---
 
 Last modified: December 25, 2019

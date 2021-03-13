@@ -2,7 +2,7 @@
 title: Legal Notice
 modified: 2019-12-25
 comments: false
-layout: page
+layout: page-with-title
 ---
 
 **Responsible for content/ Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV)**

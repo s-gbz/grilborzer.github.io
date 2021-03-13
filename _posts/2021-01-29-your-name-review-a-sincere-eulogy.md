@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Your Name (2016) - A sincere eulogy (spoilers)!"
 author: sergej
 categories: [Movie Review]

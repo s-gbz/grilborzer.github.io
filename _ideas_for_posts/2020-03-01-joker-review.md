@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Review: Joker"
 author: sergej
 categories: [Movie Review]

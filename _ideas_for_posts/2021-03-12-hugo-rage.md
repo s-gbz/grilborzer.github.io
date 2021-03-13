@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Developing my own themes"
 author: sergej
 categories: [Software Engineering]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Black Swan (2011) - Review (no spoilers!)"
 author: sergej
 categories: [Movie Review]

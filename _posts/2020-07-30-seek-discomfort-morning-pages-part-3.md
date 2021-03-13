@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Being uncomfortable - Journaling Morning Pages #3"
 author: sergej
 categories: [Self Development]
