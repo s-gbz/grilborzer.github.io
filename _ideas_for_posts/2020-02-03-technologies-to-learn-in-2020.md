@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Technologies to learn in 2020"
 author: sergej
 categories: [Software Engineering]

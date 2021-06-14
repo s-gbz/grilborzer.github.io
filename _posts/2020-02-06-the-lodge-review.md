@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The Lodge - A discussion of modern horror (2020) - Spoilers!"
 author: sergej
 categories: [Movie Review]

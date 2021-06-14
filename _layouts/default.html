@@ -8,7 +8,6 @@
     <title>{{ page.title }} | {{site.name}}</title>
 
     {% seo %}
-    <!-- {% include google-analytics.html %} -->
 
     <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
 
@@ -32,8 +31,6 @@
             <div class="main-content">
                 {{ content }}
             </div>
-
-            {% include category-group-list.html %}
         </div>
 
     {% include footer.html %}
@@ -42,10 +39,12 @@
     <script type="text/javascript" src="/assets/js/popper.min.js" defer></script>
     <script type="text/javascript" src="/assets/js/bootstrap.min.js" defer></script>
     <script type="text/javascript" src="/assets/js/mediumish.js" defer></script>
+
     {% if site.lazyimages == "enabled" %}
     <script type="text/javascript" src="/assets/js/lazyload.js"></script>
     {% endif %}
+    
     <script type="text/javascript" src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+    {% include cookie-consent.html %}
 </body>
-
 </html>

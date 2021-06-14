@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Trying out Morning Pages for 30 days"
 author: sergej
 categories: [Self Development]

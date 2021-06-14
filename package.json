@@ -1,0 +1,20 @@
+{
+  "name": "grilborzer.de",
+  "version": "1.0.0",
+  "description": "Personal website of Sergej Grilborzer.",
+  "main": "index.html",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-gbz/grilborzer.de.git"
+  },
+  "author": "s-gbz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-gbz/grilborzer.de/issues"
+  },
+  "homepage": "https://github.com/s-gbz/grilborzer.de#readme"
+}

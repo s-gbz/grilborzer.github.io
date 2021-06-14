@@ -1,12 +1,33 @@
 ---
 layout: default
-disqus: false
-archive: false
-post_class: post-template
 ---
 
+<script>
+$(document).ready(function() {
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            $('#toTopBtn').css("visibility", "visible");
+            $('#toTopBtn').fadeIn(0);
+        } else {
+            $('#toTopBtn').fadeOut(0);
+        }
+    });
+
+    $('#toTopBtn').click(function() {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 300);
+        return false;
+    });
+});
+</script>
+
 <div id="post-container" class="container">
+    
     <div class="row">
+        
+        <!-- Back to top button -->
+        <a href="#" id="toTopBtn" class="cd-top js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
 
         <div class="col-md-2 pl-0">
         </div>
@@ -14,6 +35,22 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
 
         <div class="col-md-8 flex-first flex-md-unordered">
+            
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="/blog" class="text-center">Blog</a></li>
+                  <li class="breadcrumb-item active" aria-current="page"
+                  style=" 
+                          max-width: 600px;
+                          white-space: nowrap;
+                          overflow: hidden;
+                          text-overflow: ellipsis;
+                          display: inline;
+                  "
+                  >{{ page.title }}</li>
+                </ol>
+              </nav>
+
             <div class="mainheading">
 
                 {% if page.author %}
@@ -157,6 +194,8 @@ post_class: post-template
     </div>
 </div>
 {% endif %}
+
+<link rel="stylesheet" href="/assets/css/scroll-to-top.css">
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/

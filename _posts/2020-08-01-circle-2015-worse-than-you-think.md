@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Circle (2015) - Worse than you think"
 author: sergej
 categories: [Movie Review]

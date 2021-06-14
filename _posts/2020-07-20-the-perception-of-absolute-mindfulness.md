@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The perception of pure mindfulness"
 author: sergej
 categories: [Self Development]

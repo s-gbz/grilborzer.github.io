@@ -1,0 +1,48 @@
+#toTopBtn {
+    opacity: 0.35;
+    position: fixed;
+    bottom: 26px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: var(--blue);
+    visibility: hidden;
+}
+
+#toTopBtn:hover{
+    opacity: 1;
+}
+
+.scroll {
+    color: #fff;
+    margin-top: 100px
+}
+/* 
+.js .cd-top--fade-out {
+    opacity: .5
+} 
+
+.js .cd-top--is-visible {
+    visibility: visible;
+    opacity: 1 
+} 
+
+.js .cd-top {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .3s, visibility .3s, background-color .3s
+} */
+
+.cd-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: inline-block;
+
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, .05) !important;
+    background: url(./cd-top-arrow.svg) no-repeat center 50%;
+}

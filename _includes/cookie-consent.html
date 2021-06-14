@@ -1,0 +1,63 @@
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="/assets/css/cookieconsent.min.css"
+/>
+<script src="/assets/js/cookieconsent.min.js" data-cfasync="false"></script>
+
+<script async src="/assets/js/gtag.js?id=UA-158219742-1"></script>
+
+<script>
+  // Reads the value of a cookie by name or returns empty string
+  function getCookie(name) {
+    var b = document.cookie.match("(^|[^;]+)\\s*" + name + "\\s*=\\s*([^;]+)");
+    return b ? b.pop() : "";
+  }
+
+  // Actually starting analytics up
+  function addAnalytics() {
+    if (document.location.hostname.startsWith("sergej.grilborzer.de")) {
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-158219742-1");
+    }
+  }
+
+  // Waiting for the load event
+  window.addEventListener("load", function () {
+    const cookieConsent = getCookie("cookieconsent_status");
+
+    if (cookieConsent === "allow") {
+      addAnalytics();
+    }
+
+    if (cookieConsent === "") {
+      window.cookieconsent.initialise({
+        palette: {
+          popup: {
+            background: "#efefef",
+            text: "#404040",
+          },
+          button: {
+            background: "#8ec760",
+            text: "#ffffff",
+          },
+        },
+        type: "opt-in",
+        content: {
+          allow: "Approve",
+          dismiss: "Reject",
+          deny: "Reject",
+        },
+        // Reload the page on user choice to make sure cookie is set
+        onStatusChange: function (status, chosenBefore) {
+          // location.reload();
+        },
+      });
+    }
+  });
+</script>

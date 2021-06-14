@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Keeping up with the habit - Journaling Morning Pages #6"
 author: sergej
 categories: [Self Development]

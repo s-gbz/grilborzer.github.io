@@ -1,0 +1,131 @@
+---
+title: Photography
+layout: default
+comments: false
+---
+
+<link rel="stylesheet" href="/assets/css/scroll-to-top.css">
+
+<script>
+    $(document).ready(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 100) {
+                $('#toTopBtn').css("visibility", "visible");
+                $('#toTopBtn').fadeIn(0);
+            } else {
+                $('#toTopBtn').fadeOut(0);
+            }
+        });
+    
+        $('#toTopBtn').click(function() {
+            $("html, body").animate({
+                scrollTop: 0
+            }, 300);
+            return false;
+        });
+    });
+</script>
+
+<noscript>
+    <h2 style="color: red; margin-top: 40px; position: relative; text-align: center; text-shadow: 1px 1px #fafafa;">
+        <b><i>Please enable JavaScript to display the gallery.</i></b>
+    </h2>
+</noscript>
+
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+</div>
+
+<a href="#" id="toTopBtn" class="cd-top js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+
+<div id="masonryGrid">
+    <div v-for="(start, index) in numberOfPhotos" :key="index">
+        <a :href="basePathFulls + index + '.webp'">
+
+            <picture @click="setCurrentIndex(index)">
+                <source loading="lazy" :srcset="basePathThumbnails + index + '.webp'" type="image/webp">
+                <img loading="lazy" alt="Model Portrait Photography" :src="basePathThumbnails + index + '.jpg'"
+                    type="image/jpg">
+            </picture>
+        </a>
+    </div>
+</div>
+
+<script src="{{site.baseurl}}/portfolio-assets/vue.min.js"></script>
+<script src="{{site.baseurl}}/portfolio-assets/macy.js"></script>
+<link rel="stylesheet" href="{{site.baseurl}}/portfolio-assets/dependencies/blueimp-gallery.min.css" />
+<script src="{{site.baseurl}}/portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
+
+<script>
+    let currentIndex = 0;
+    const numberOfPhotos = 46;
+    const basePathThumbnails = "{{site.baseurl}}/portfolio-assets/portfolio-photos/thumbnails/";
+    const basePathTinyThumbnails = "{{site.baseurl}}/portfolio-assets/portfolio-photos/tiny-thumbnails/";
+    const basePathFulls = "{{site.baseurl}}/portfolio-assets/portfolio-photos/fulls/";
+    const masonryContainer = "#masonryGrid";
+
+    const vueInstance = new Vue({
+        delimiters: ["((", "))"],
+        el: masonryContainer,
+        data: {
+            numberOfPhotos: numberOfPhotos,
+            basePathThumbnails: basePathThumbnails,
+            basePathFulls: basePathFulls
+        },
+        methods: {
+            setCurrentIndex(index) {
+                currentIndex = index;
+            }
+        }
+    });
+
+    const macyInstance = Macy({
+        container: masonryContainer,
+        mobileFirst: true,
+        margin: 24,
+        columns: 4,
+        breakAt: {
+            950: 4,
+            520: 3,
+            200: 2
+        }
+    });
+
+    // runs everytime a pictures is loaded
+    macyInstance.runOnImageLoad(function () {
+        macyInstance.recalculate(true, true);
+    }, true);
+
+
+    document.getElementById('masonryGrid').onclick = function (event) {
+        event = event || window.event;
+        const target = event.target || event.srcElement;
+        const options = {
+            index: currentIndex, event: event, preloadRange: 0
+        };
+        const links = useWebpImagesInGalleryIfSupported(target);
+
+        blueimp.Gallery(links, options);
+    }
+
+    function useWebpImagesInGalleryIfSupported(target) {
+        let links = [];
+
+        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            for (let i = 0; i < numberOfPhotos; i++) {
+                links.push({ href: basePathFulls + i + ".jpg", thumbnail: basePathTinyThumbnails + i + ".gif" });
+            }
+        } else {
+            for (let i = 0; i < numberOfPhotos; i++) {
+                links.push({ href: basePathFulls + i + ".webp", thumbnail: basePathTinyThumbnails + i + ".gif" });
+            }
+        }
+
+        return links;
+    }
+</script>
+

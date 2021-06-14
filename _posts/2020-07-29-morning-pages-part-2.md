@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Exploring ideas - Journaling Morning Pages #2"
 author: sergej
 categories: [Self Development]

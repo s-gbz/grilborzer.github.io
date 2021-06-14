@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Inglourious Basterds (2009) - Review/ Praise"
 author: sergej
 categories: [Movie Review]

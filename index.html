@@ -1,106 +1,212 @@
 ---
-title: Portfolio
-comments: false
-layout: gallery
+layout: default
+title: Welcome
 ---
 
-<noscript>
-    <h2 style="color: red; margin-top: 40px; position: relative; text-align: center; text-shadow: 1px 1px #fafafa;">
-        <b><i>Please enable JavaScript to display the gallery.</i></b>
-    </h2>
-</noscript>
+<div class="container">
+  <div class="row">
+    <h1 class="col-12 col-sm-6 animate__animated animate__backInDown">
+      Hi there!
+    </h1>
 
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-</div>
+    <img
+      class="col-12 col-sm-6 animate__animated animate__backInRight"
+      src="{{site.baseurl}}/assets/images/s-gbz.jpg"
+    />
 
-<div id="masonryGrid">
-    <div v-for="(start, index) in numberOfPhotos" :key="index">
-        <a :href="basePathFulls + index + '.webp'">
+    <h2 class="col-12 col-sm-6">Skills & services</h2>
+    
+      <ul class="col-12 row list-unstyled">
+        <li class="col-6">Skill 1</li>
+        <li class="col-6">Skill 2</li>
+        <li class="col-6">Skill 3</li>
+        <li class="col-6">Skill 4</li>
+      </ul>
 
-            <picture @click="setCurrentIndex(index)">
-                <source loading="lazy" :srcset="basePathThumbnails + index + '.webp'" type="image/webp">
-                <img loading="lazy" alt="Model Portrait Photography" :src="basePathThumbnails + index + '.jpg'"
-                    type="image/jpg">
-            </picture>
-        </a>
+
+    <!-- Carousel pls -->
+    <h3 class="col-12 col-sm-12 animate__animated animate__backInDown">
+      Latest articles
+    </h3>
+
+    <div id="carouselExampleIndicators" class="carousel slide col-12 col-sm-12" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="/assets/images/the-lodge-smaller.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/assets/images/the-lodge-smaller.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/assets/images/the-lodge-smaller.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
+
+    <!-- Carousel pls -->
+    <h3 class="col-12 col-sm-12 animate__animated animate__backInDown">
+      Some photos I took
+    </h3>
+    <div class="col-12 col-sm-12">
+      <img src="/portfolio-assets/portfolio-photos/thumbnails/0.jpg" />
+      <img src="/portfolio-assets/portfolio-photos/thumbnails/20.jpg" />
+      <img src="/portfolio-assets/portfolio-photos/thumbnails/25.jpg" />
+    </div>
+  </div>
 </div>
 
-<script src="portfolio-assets/vue.min.js"></script>
-<script src="portfolio-assets/macy.js"></script>
-<link rel="stylesheet" href="portfolio-assets/dependencies/blueimp-gallery.min.css" />
-<script src="portfolio-assets/dependencies/blueimp-gallery.min.js"></script>
+<style>
+  :root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+  }
+  .animate__animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: var(--animate-duration);
+    animation-duration: var(--animate-duration);
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
 
-<script>
-    let currentIndex = 0;
-    const numberOfPhotos = 46;
-    const basePathThumbnails = "portfolio-assets/portfolio-photos/thumbnails/";
-    const basePathTinyThumbnails = "portfolio-assets/portfolio-photos/tiny-thumbnails/";
-    const basePathFulls = "portfolio-assets/portfolio-photos/fulls/";
-    const masonryContainer = "#masonryGrid";
+  .animate__backInRight {
+    -webkit-animation-name: backInRight;
+    animation-name: backInRight;
+  }
 
-    const vueInstance = new Vue({
-        delimiters: ["((", "))"],
-        el: masonryContainer,
-        data: {
-            numberOfPhotos: numberOfPhotos,
-            basePathThumbnails: basePathThumbnails,
-            basePathFulls: basePathFulls
-        },
-        methods: {
-            setCurrentIndex(index) {
-                currentIndex = index;
-            }
-        }
-    });
-
-    const macyInstance = Macy({
-        container: masonryContainer,
-        mobileFirst: true,
-        margin: 24,
-        columns: 4,
-        breakAt: {
-            950: 4,
-            520: 3,
-            400: 2
-        }
-    });
-
-    // runs everytime a pictures is loaded
-    macyInstance.runOnImageLoad(function () {
-        macyInstance.recalculate(true, true);
-    }, true);
-
-
-    document.getElementById('masonryGrid').onclick = function (event) {
-        event = event || window.event;
-        const target = event.target || event.srcElement;
-        const options = {
-            index: currentIndex, event: event, preloadRange: 0
-        };
-        const links = useWebpImagesInGalleryIfSupported(target);
-
-        blueimp.Gallery(links, options);
+  @-webkit-keyframes backInRight {
+    0% {
+      -webkit-transform: translateX(2000px) scale(0.7);
+      transform: translateX(2000px) scale(0.7);
+      opacity: 0.7;
     }
 
-    function useWebpImagesInGalleryIfSupported(target) {
-        let links = [];
-
-        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
-            for (let i = 0; i < numberOfPhotos; i++) {
-                links.push({ href: basePathFulls + i + ".jpg", thumbnail: basePathTinyThumbnails + i + ".gif" });
-            }
-        } else {
-            for (let i = 0; i < numberOfPhotos; i++) {
-                links.push({ href: basePathFulls + i + ".webp", thumbnail: basePathTinyThumbnails + i + ".gif" });
-            }
-        }
-
-        return links;
+    80% {
+      -webkit-transform: translateX(0px) scale(0.7);
+      transform: translateX(0px) scale(0.7);
+      opacity: 0.7;
     }
-</script>
+
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  @keyframes backInRight {
+    0% {
+      -webkit-transform: translateX(2000px) scale(0.7);
+      transform: translateX(2000px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    80% {
+      -webkit-transform: translateX(0px) scale(0.7);
+      transform: translateX(0px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+  @-webkit-keyframes pulse {
+    from {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+
+    50% {
+      -webkit-transform: scale3d(1.05, 1.05, 1.05);
+      transform: scale3d(1.05, 1.05, 1.05);
+    }
+
+    to {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  }
+  @keyframes pulse {
+    from {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+
+    50% {
+      -webkit-transform: scale3d(1.05, 1.05, 1.05);
+      transform: scale3d(1.05, 1.05, 1.05);
+    }
+
+    to {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  }
+
+  @-webkit-keyframes backInDown {
+    0% {
+      -webkit-transform: translateY(-1200px) scale(0.7);
+      transform: translateY(-1200px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    80% {
+      -webkit-transform: translateY(0px) scale(0.7);
+      transform: translateY(0px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  @keyframes backInDown {
+    0% {
+      -webkit-transform: translateY(-1200px) scale(0.7);
+      transform: translateY(-1200px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    80% {
+      -webkit-transform: translateY(0px) scale(0.7);
+      transform: translateY(0px) scale(0.7);
+      opacity: 0.7;
+    }
+
+    100% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  .animate__backInDown {
+    -webkit-animation-name: backInDown;
+    animation-name: backInDown;
+  }
+
+  .animate__pulse {
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+  }
+</style>

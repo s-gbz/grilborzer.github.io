@@ -27,12 +27,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jemoji
     
 # Archives
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+  layout: categories
   permalinks:
     category: '/category/:name/'
     

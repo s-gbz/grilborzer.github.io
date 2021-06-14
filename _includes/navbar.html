@@ -1,14 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">    
     <div class="container pr-0">
-        {% if page.url == '/' %}     
         <a class="href-no-color-change title-logo-lettering gallery-title-lettering" href="/">
             <p>{{ site.name }}</p>
         </a>
-        {% else %}
-        <a class="href-no-color-change title-logo-lettering gallery-title-lettering" href="/blog">
-            <p>{{ site.name }}</p>
-        </a>
-        {% endif %}
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,11 +11,11 @@
 
         <div class="collapse navbar-collapse" id="navbarMediumish">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item {% if page.url == '/' %} active {% endif %}">
-                    <a class="nav-link" href="/">Portfolio</a>
-                </li>
                 <li class="nav-item {% if page.url contains 'blog' or page.url contains 'categories' %} active {% endif %}">
                     <a class="nav-link" href="/blog">Blog</a>
+                </li>
+                <li class="nav-item {% if page.url contains 'photography' %} active {% endif %}">
+                    <a class="nav-link" href="/photography">Photography</a>
                 </li>
                 {% include search-lunr.html %}
             </ul>
